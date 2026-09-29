@@ -1,0 +1,16 @@
+year,series,value,partial_year
+2021,Pedestrian crashes in the file,404,False
+2021,Pedestrian deaths in the file,15,False
+2021,Pedestrian deaths reported by DOTI,23,False
+2022,Pedestrian crashes in the file,374,False
+2022,Pedestrian deaths in the file,3,False
+2023,Pedestrian crashes in the file,522,False
+2023,Pedestrian deaths in the file,0,False
+2024,Pedestrian crashes in the file,494,False
+2024,Pedestrian deaths in the file,0,False
+2024,Pedestrian deaths reported by DOTI,26,False
+2025,Pedestrian crashes in the file,463,False
+2025,Pedestrian deaths in the file,0,False
+2025,Pedestrian deaths reported by DOTI,35,False
+2026,Pedestrian crashes in the file,357,True
+2026,Pedestrian deaths in the file,0,True

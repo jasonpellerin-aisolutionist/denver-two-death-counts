@@ -1,0 +1,41 @@
+[project]
+name = "denver-two-death-counts"
+version = "0.1.0"
+description = "Denver publishes two traffic-death counts. This repo keeps them apart and shows where the open crash file stopped recording people walking."
+requires-python = ">=3.12,<3.13"
+authors = [{ name = "Jason Pellerin", email = "jason@jasonpellerin.com" }]
+license = { text = "MIT" }
+dependencies = [
+    "matplotlib>=3.9",
+    "openpyxl>=3.1",
+    "pandas>=2.2",
+    "plotly>=5.24",
+    "pyproj>=3.6",
+    "requests>=2.32",
+    "shapely>=2.0",
+    "streamlit>=1.40",
+    "tableauhyperapi==0.0.26479",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "ruff>=0.8",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/twocounts"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+ignore = ["C408"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

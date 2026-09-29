@@ -1,0 +1,35 @@
+name: weekly-refresh
+
+on:
+  schedule:
+    # Monday 15:00 UTC. The test pins the 29 Sep 2026 snapshot, so a real
+    # change in the open file fails the job instead of rewriting the story.
+    - cron: "0 15 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Pull and rebuild
+        run: |
+          uv sync
+          uv run python -m twocounts.fetch
+          uv run python -m twocounts.build
+          uv run python -m twocounts.workbook
+          uv run python -m twocounts.figures
+          uv run pytest -q
+      - name: Commit extracts
+        run: |
+          git config user.name "denver-two-death-counts"
+          git config user.email "jason@jasonpellerin.com"
+          git add tableau/exports app/data reports
+          git diff --cached --quiet && echo "no change" || git commit -m "Weekly refresh of the Denver crash extracts"
+          git pull --rebase --autostash
+          git push

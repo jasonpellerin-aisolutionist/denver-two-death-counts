@@ -1,0 +1,12 @@
+metric,year,value,partial_year,source,note
+traffic_deaths,2024,80,False,"Denver Gazette, 2026-02-03",The article's newest data: fatalities increased from 80 to 93.
+traffic_deaths,2025,93,False,"Denver Gazette, 2026-02-03","Same article. Denver Streets Partnership also said 93, the deadliest year since 2013."
+traffic_deaths,2025,94,False,"denvergov.org Vision Zero statistics, read 2026-09-29","The page says some dashboard connections may not be current, and points readers to the open data catalog."
+traffic_deaths,2026,47,True,"denvergov.org Vision Zero statistics, read 2026-09-29",Year to date on the day the page was read. Not a full year.
+pedestrian_deaths,2021,23,False,"DOTI, via Denver Gazette, 2026-02-03","Pedestrian deaths climbed from 23 in 2021 to 26 in 2024, then 35 in 2025."
+pedestrian_deaths,2024,26,False,"DOTI, via Denver Gazette, 2026-02-03","One of the 2024 pedestrian deaths was on a freeway, the spokesperson said."
+pedestrian_deaths,2025,35,False,"DOTI, via Denver Gazette, 2026-02-03",Eight of the 35 were on a freeway. Around half of those eight involved someone who had pulled over.
+cyclist_deaths,2021,4,False,"DOTI, via Denver Gazette, 2026-02-03",Cyclist deaths rose from four in 2021 to five in 2025.
+cyclist_deaths,2025,5,False,"DOTI, via Denver Gazette, 2026-02-03","Electric stand-up scooter deaths were eight in 2025 and zero in 2024, in the same DOTI account. A moped was one more."
+serious_injuries,2024,410,False,"Denver Gazette, 2026-02-03",The article's newest data: serious injuries fell from 410 to 356. This may not be the file's SERIOUSLY_INJURED field.
+serious_injuries,2025,356,False,"Denver Gazette, 2026-02-03",Reported drop. The open file's serious-injury sum did not drop. They are kept as different series.

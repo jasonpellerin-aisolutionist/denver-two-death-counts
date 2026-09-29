@@ -1,0 +1,24 @@
+year,source,metric,value,partial_year
+2021,Open crash file,traffic_deaths,72,False
+2021,Open crash file,pedestrian_deaths,15,False
+2022,Open crash file,traffic_deaths,55,False
+2022,Open crash file,pedestrian_deaths,3,False
+2023,Open crash file,traffic_deaths,44,False
+2023,Open crash file,pedestrian_deaths,0,False
+2024,Open crash file,traffic_deaths,41,False
+2024,Open crash file,pedestrian_deaths,0,False
+2025,Open crash file,traffic_deaths,41,False
+2025,Open crash file,pedestrian_deaths,0,False
+2026,Open crash file,traffic_deaths,26,True
+2026,Open crash file,pedestrian_deaths,0,True
+2024,City reported,traffic_deaths,80,False
+2025,City reported,traffic_deaths,93,False
+2025,City reported,traffic_deaths,94,False
+2026,City reported,traffic_deaths,47,True
+2021,City reported,pedestrian_deaths,23,False
+2024,City reported,pedestrian_deaths,26,False
+2025,City reported,pedestrian_deaths,35,False
+2021,City reported,cyclist_deaths,4,False
+2025,City reported,cyclist_deaths,5,False
+2024,City reported,serious_injuries,410,False
+2025,City reported,serious_injuries,356,False
