@@ -1,4 +1,66 @@
 year,geo_lon,geo_lat,neighborhood_id,LIGHT_CONDITION,ROAD_DESCRIPTION,on_hin,incident_address
+2025,-105.0247864,39.69485299,Ruby Hill,Dark-Lighted,Non-Intersection,on network,1200 S FEDERAL BLVD
+2025,-105.02492767,39.72543061,Valverde,,,on network,W 6TH AVE / N FEDERAL BLVD
+2025,-104.88687141,39.74000928,East Colfax,Daylight,At Intersection,on network,8700 E COLFAX AVE
+2025,-104.98723622,39.72431976,Speer,Daylight,Non-Intersection,on network,500 BLOCK N BROADWAY ST
+2025,-104.79796701,39.78378565,Gateway - Green Valley Ranch,Daylight,Intersection Related,off network,N MEMPHIS ST / E GVR BLVD
+2025,-105.03608508,39.71128203,Barnum,Daylight,Alley Related,on network,W ALAMEDA AVE / S MEADE ST
+2025,-104.99073566,39.74228081,CBD,Daylight,At Intersection,off network,15TH ST / TREMONT PL
+2025,-104.81749055,39.79443122,Montbello,Daylight,Non-Intersection,off network,5519 N DEARBORN ST
+2025,-105.02268904,39.67823534,College View - South Platte,Daylight,At Intersection,off network,2800 BLOCK W EVANS AVE
+2025,-104.92227168,39.68124664,Virginia Village,Daylight,At Intersection,off network,S HOLLY ST / E ATLANTIC PL
+2025,-105.05325676,39.72581063,,Dark-Lighted,Non-Intersection,on network,W 6TH AVE / N SHERIDAN BLVD
+2025,-105.05326587,39.67915988,Harvey Park,Daylight,At Intersection,on network,S SHERIDAN BLVD / W EVANS AVE
+2025,-105.0001912,39.7273212,Lincoln Park,Dark-Lighted,Non-Intersection,off network,N KALAMATH ST / W 7TH AVE
+2025,-105.00420155,39.75046703,Auraria,Daylight,Mid-Block Crosswalk,off network,1300 BLOCK WEWATTA ST
+2025,-104.90312769,39.69591816,Washington Virginia Vale,Daylight,Mid-Block Crosswalk,off network,1050 S QUEBEC ST
+2025,-105.02464435,39.69851191,Athmar Park,Dark-Lighted,Non-Intersection,off network,1000 BLOCK S FEDERAL BLVD
+2025,-105.02980558,39.67820088,Harvey Park,Daylight,At Intersection,off network,S IRVING ST / W EVANS AVE
+2025,-104.98804331,39.71846483,Baker,Daylight,Parking Lot,off network,39 W 1ST AVE
+2025,-105.05180066,39.71499694,Barnum West,Daylight,Intersection Related,off network,S ZENOBIA ST / W BAYAUD AVE
+2025,-104.8904033,39.75464624,Central Park,Dark-Lighted,At Intersection,off network,N CENTRAL PARK BLVD / E 26TH AVE
+2025,-104.93160739,39.71127928,Hilltop,Dark-Lighted,Non-Intersection,on network,E ALAMEDA AVE / S DAHLIA ST
+2025,-105.00157594,39.75409889,Union Station,Dark-Lighted,At Intersection,off network,17TH ST / WEWATTA ST
+2025,-104.98293141,39.76042587,Five Points,Dark-Lighted,At Intersection,off network,LARIMER ST / 28TH ST
+2025,-105.05324935,39.71134299,Westwood,Daylight,At Intersection,on network,S SHERIDAN BLVD / W ALAMEDA AVE
+2025,-104.97329527,39.74340922,City Park West,Daylight,Non-Intersection,on network,1700 BLOCK N DOWNING ST
+2025,-104.94069185,39.72922765,Hale,Daylight,At Intersection,on network,N COLORADO BLVD / E 8TH AVE
+2025,-104.90171211,39.77275709,Central Park,Daylight,Non-Intersection,off network,4000 BLOCK N QUEBEC ST
+2025,-104.88507089,39.64321313,Hampden South,Dark-Lighted,At Intersection,off network,E NASSAU AVE / S YOSEMITE ST
+2025,-104.9665019,39.69213772,Washington Park,Daylight,Parking Lot,off network,1700 E LOUISIANA AVE
+2025,-104.9807608,39.73700474,Capitol Hill,Daylight,Non-Intersection,on network,1300 BLOCK N PENNSYLVANIA ST
+2025,-104.9873985,39.74735879,North Capitol Hill,Daylight,At Intersection,on network,WELTON ST / N BROADWAY ST
+2025,-104.95171141,39.71996475,Cherry Creek,Dark-Unlighted,Alley Related,off network,200 BLOCK N MILWAUKEE ST PAUL ALY
+2025,-104.9958976,39.75386606,Union Station,Daylight,Driveway Access Related,off network,1900 BLOCK WAZEE ST
+2025,-104.91581558,39.6782937,Goldsmith,Daylight,Non-Intersection,on network,6300 BLOCK E EVANS AVE
+2025,-104.98277254,39.69661664,Platt Park,Daylight,At Intersection,off network,E MISSISSIPPI AVE / S LOGAN ST
+2025,-104.90343362,39.77823711,Central Park,Dark-Lighted,Non-Intersection,on network,N NORTHFIELD QUEBEC ST / I70 HWYEB
+2025,-104.98715158,39.72471197,Speer,Daylight,Non-Intersection,on network,530 BLOCK N BROADWAY ST
+2025,-105.02150533,39.71116323,Valverde,Daylight,At Intersection,on network,W ALAMEDA AVE / S DALE CT
+2025,-104.91269852,39.77313361,Northeast Park Hill,Dark-Lighted,Intersection Related,off network,E SMITH RD / N MONACO ST
+2025,-104.94171627,39.7644598,Clayton,Dark-Lighted,Intersection Related,off network,E BRUCE RANDOLPH AVE / N HARRISON ST
+2025,-104.84170986,39.78059029,Montbello,Daylight,Intersection Related,off network,E 46TH AVE / E ALBROOK DR
+2025,-104.84745145,39.76962749,Central Park,Daylight,Non-Intersection,on network,E 38TH AVE / N PEORIA ST
+2025,-104.86230111,39.78324297,Montbello,Daylight,Parking Lot,off network,10825 E 47TH AVE
+2025,-104.99552078,39.7533456,Union Station,Daylight,At Intersection,off network,19TH ST / BLAKE ST
+2025,-104.98108893,39.74167589,North Capitol Hill,Dark-Lighted,Intersection Related,on network,E 16TH AVE / N PENNSYLVANIA ST
+2025,-104.90354612,39.69853384,Washington Virginia Vale,Dark-Lighted,Auxiliary Lane,on network,LEETSDALE DR / S QUEBEC ST
+2025,-104.97038613,39.7387292,Cheesman Park,Daylight,Alley Related,off network,1400 BLOCK N LAFAYETTE ST / HUMBOLDT ST ALLEY
+2025,-104.92391382,39.74047648,South Park Hill,Dark-Lighted,Parking Lot,off network,5455 E COLFAX AVE
+2025,-104.98749995,39.76510727,Five Points,Dark-Unlighted,Intersection Related,off network,29TH ST / DELGANY ST
+2025,-105.01061673,39.6970625,Athmar Park,Dark-Lighted,Parking Lot,off network,1875 W MISSISSIPPI AVE
+2025,-104.94836402,39.71391219,Cherry Creek,Daylight,Non-Intersection,off network,3300 BLOCK E BAYAUD AVE
+2025,-104.97411842,39.73370013,Capitol Hill,Daylight,At Intersection,off network,E 11TH AVE / N CORONA ST
+2025,-105.05321682,39.65616483,Bear Valley,Daylight,At Intersection,on network,W DARTMOUTH AVE / S SHERIDAN BLVD
+2025,-105.02997298,39.76940238,West Highland,Daylight,At Intersection,on network,W 38TH AVE / N IRVING ST
+2025,-104.96463432,39.68028315,University,Dark-Unlighted,Intersection Related,off network,E ASBURY AVE / S HIGH RACE ALY
+2025,-105.05325293,39.71134026,Westwood,Dark-Lighted,Non-Intersection,on network,S SHERIDAN BLVD / W ALAMEDA AVE
+2025,,,,Daylight,Alley Related,,500 BLOCK PARK AVE
+2025,-104.99097101,39.73386209,Civic Center,Daylight,Intersection Related,off network,W 11TH AVE / N BANNOCK CHEROKEE ALY
+2025,-104.98740818,39.74506104,CBD,Dark-Lighted,At Intersection,on network,18TH ST / N BROADWAY ST
+2025,-104.99763105,39.73679796,Lincoln Park,Dark-Lighted,Non-Intersection,on network,800 BLOCK W 13TH AVE
+2025,-105.00281844,39.73687215,Lincoln Park,Daylight,At Intersection,off network,W 13TH AVE / N MARIPOSA ST
+2025,-104.90345419,39.76745936,Northeast Park Hill,Daylight,Non-Intersection,on network,N QUEBEC ST / E 36TH AVE
 2025,-104.89135186,39.70723992,Windsor,Daylight,Parking Lot,off network,8335 E FAIRMOUNT DR
 2025,-104.99427238,39.75433402,Union Station,Dark-Lighted,At Intersection,off network,20TH ST / BLAKE ST
 2025,-104.99714258,39.71119337,Baker,Daylight,At Intersection,on network,S SANTA FE DR / W ALAMEDA AVE
@@ -9,74 +71,105 @@ year,geo_lon,geo_lat,neighborhood_id,LIGHT_CONDITION,ROAD_DESCRIPTION,on_hin,inc
 2025,-105.01278136,39.76201642,Highland,Daylight,At Intersection,off network,W 32ND AVE / N VALLEJO ST
 2025,-104.97703852,39.73834716,Capitol Hill,Daylight,Non-Intersection,on network,800 BLOCK E 14TH AVE
 2025,-104.99675093,39.75241748,Union Station,Daylight,Non-Intersection,off network,18TH ST / BLAKE ST
-2025,-104.98748286,39.7241369,Baker,Daylight,Non-Intersection,on network,E 5TH AVE / N BROADWAY ST
-2025,-104.98435797,39.75024175,Five Points,Daylight,Alley Related,off network,600 BLOCK 22ND ST
-2025,-104.76742381,39.78371488,Gateway - Green Valley Ranch,Daylight,Non-Intersection,off network,E GVR BLVD / N ANDES CT
-2025,-104.98491946,39.75078503,Five Points,Dark-Lighted,Non-Intersection,off network,CALIFORNIA ST / 22ND ST
-2025,-105.01679298,39.75128807,Jefferson Park,Dark-Lighted,Non-Intersection,off network,I25 HWYSB / W 23RD AVE
-2025,-105.02508379,39.70394663,Westwood,Daylight,At Intersection,on network,W EXPOSITION AVE / S FEDERAL BLVD
-2025,,,,UNDER INVESTIGATION,UNDER INVESTIGATION,,ALTON ST / E MONTVIEW BLVD
-2025,-104.97693229,39.6929917,Washington Park West,Daylight,Non-Intersection,off network,E LOUISIANA AVE / S EMERSON ST
-2025,-105.02521826,39.7439541,West Colfax,Daylight,At Intersection,on network,N FEDERAL BLVD / W DICK CONNOR AVE
-2025,-105.04781065,39.73841805,West Colfax,Dark-Lighted,Non-Intersection,off network,4700 BLOCK W 14TH AVE
-2025,-104.96445434,39.78117688,Elyria Swansea,Daylight,Non-Intersection,off network,4600 BLOCK N HIGH ST
-2025,-104.98737797,39.7433561,CBD,Dark-Lighted,At Intersection,on network,17TH ST / N BROADWAY ST
-2025,-104.9746056,39.68575015,Platt Park,Daylight,At Intersection,off network,E MEXICO AVE / S CORONA ST
-2025,-104.8916814,39.74015504,East Colfax,Dark-Lighted,At Intersection,on network,E COLFAX AVE / N VALENTIA ST
-2025,-104.97280034,39.76998379,Five Points,Daylight,Non-Intersection,on network,3729 WALNUT ST
-2025,-104.99342015,39.75365228,Union Station,Daylight,Non-Intersection,off network,20TH ST / MARKET ST
-2025,-104.99808033,39.74010243,Civic Center,Daylight,At Intersection,on network,W COLFAX AVE / N SPEER BLVD
-2025,-104.98386836,39.73655172,Capitol Hill,Daylight,Parking Lot,off network,1275 N GRANT ST
-2025,-104.99278702,39.69809605,Athmar Park,Dark-Lighted,Non-Intersection,off network,855 S PLATTE RIVER DR
-2025,-104.95938563,39.67303067,University,Daylight,At Intersection,on network,S UNIVERSITY BLVD / E WESLEY AVE
-2025,-104.94055133,39.68309755,Virginia Village,Dark-Unlighted,Ramp Related,on network,I25 HWYNB / S COLORADO BLVD
-2025,-104.94054635,39.77287941,Northeast Park Hill,Dark-Lighted,Mid-Block Crosswalk,on network,E 40TH AVE / N COLORADO BLVD
-2025,-105.00025304,39.75507059,Union Station,Dawn or Dusk,At Intersection,off network,18TH ST / WEWATTA ST
-2025,-105.0048476,39.75013757,Auraria,Daylight,At Intersection,on network,N SPEER BLVD / CHOPPER CIR
-2025,-104.97144114,39.74689563,City Park West,Daylight,Ramp Related,off network,1300 BLOCK E 20TH AVE
-2025,-105.02558028,39.73775127,West Colfax,Dark-Lighted,Parking Lot,off network,1365 N FEDERAL BLVD
-2025,-104.90395767,39.7672368,Northeast Park Hill,Dark-Lighted,Parking Lot,off network,7260 E 36TH AVE
-2025,-104.97726846,39.7399377,Capitol Hill,Dark-Lighted,Non-Intersection,on network,800 BLOCK E COLFAX AVE
-2025,-105.02189768,39.67757874,College View - South Platte,Daylight,Parking Lot,off network,2770 W EVANS AVE
+2025,-104.96357089,39.69205026,Washington Park,Daylight,Non-Intersection,off network,1300 BLOCK S RACE VINE ALY
 2025,-104.80988113,39.77318799,Montbello,Daylight,Intersection Related,on network,N CHAMBERS RD / E 40TH AVE
 2025,-104.96466469,39.74757876,City Park West,Daylight,Driveway Access Related,off network,2000 BLOCK N HIGH ST
 2025,-105.00683967,39.74552292,Auraria,Daylight,At Intersection,off network,9TH ST / WALNUT ST
 2025,-104.99763105,39.73679796,Lincoln Park,Daylight,Non-Intersection,on network,800 BLOCK W 13TH AVE
 2025,,,,Daylight,Non-Intersection,,I70 HWY  / N KING ST
 2025,-104.87033441,39.79128584,Central Park,Daylight,Parking Lot,off network,10251 E 51ST AVE
-2025,-104.98732033,39.75318663,Five Points,Daylight,Intersection Related,on network,2200 BLOCK N BROADWAY ST
-2025,-104.99895716,39.75723382,Union Station,Daylight,Parking Lot,off network,1950 CHESTNUT PL
-2025,-104.98750914,39.71567329,Speer,Daylight,Mid-Block Crosswalk,on network,S BROADWAY ST / W ARCHER PL
-2025,-104.95522854,39.71796879,Cherry Creek,Daylight,Intersection Related,on network,2700 BLOCK E 1ST AVE
+2025,-105.02558028,39.73775127,West Colfax,Dark-Lighted,Parking Lot,off network,1365 N FEDERAL BLVD
 2025,-104.98758449,39.67128739,Overland,Daylight,At Intersection,off network,S BROADWAY ST / E HARVARD AVE
 2025,-105.0252224,39.78746609,Chaffee Park,Daylight,At Intersection,on network,W 50TH AVE / N FEDERAL BLVD
-2025,-104.77172665,39.78328312,Gateway - Green Valley Ranch,Daylight,Driveway Access Related,off network,18500 BLOCK E GVR BLVD
+2025,,,,UNDER INVESTIGATION,UNDER INVESTIGATION,,ALTON ST / E MONTVIEW BLVD
+2025,-104.9899586,39.67847676,Overland,Daylight,Mid-Block Crosswalk,on network,W EVANS N FRTG / S BANNOCK ST
+2025,-104.97693229,39.6929917,Washington Park West,Daylight,Non-Intersection,off network,E LOUISIANA AVE / S EMERSON ST
+2025,-104.96199938,39.76215765,Cole,Dawn or Dusk,Non-Intersection,off network,3200 N VINE ST
+2025,-105.02521826,39.7439541,West Colfax,Daylight,At Intersection,on network,N FEDERAL BLVD / W DICK CONNOR AVE
+2025,-105.04781065,39.73841805,West Colfax,Dark-Lighted,Non-Intersection,off network,4700 BLOCK W 14TH AVE
 2025,-104.77201819,39.81824841,DIA,Daylight,At Intersection,off network,N TOWER RD / HIGH POINT BLVD
 2025,-105.03245973,39.71337881,Barnum,Dark-Lighted,At Intersection,off network,S KNOX CT / W CEDAR AVE
-2025,-104.97337296,39.70749026,Washington Park,Dawn or Dusk,At Intersection,off network,S DOWNING ST / E VIRGINIA AVE
-2025,-104.9899586,39.67847676,Overland,Daylight,Mid-Block Crosswalk,on network,W EVANS N FRTG / S BANNOCK ST
-2025,-104.96199938,39.76215765,Cole,Dawn or Dusk,Non-Intersection,off network,3200 N VINE ST
 2025,-105.00361623,39.73970314,Lincoln Park,Dark-Lighted,At Intersection,off network,1300 BLOCK W COLFAX AVE
+2025,-104.96445434,39.78117688,Elyria Swansea,Daylight,Non-Intersection,off network,4600 BLOCK N HIGH ST
+2025,-104.98737797,39.7433561,CBD,Dark-Lighted,At Intersection,on network,17TH ST / N BROADWAY ST
+2025,-104.9746056,39.68575015,Platt Park,Daylight,At Intersection,off network,E MEXICO AVE / S CORONA ST
+2025,-104.8916814,39.74015504,East Colfax,Dark-Lighted,At Intersection,on network,E COLFAX AVE / N VALENTIA ST
+2025,-104.97280034,39.76998379,Five Points,Daylight,Non-Intersection,on network,3729 WALNUT ST
+2025,-104.99342015,39.75365228,Union Station,Daylight,Non-Intersection,off network,20TH ST / MARKET ST
+2025,-104.98386836,39.73655172,Capitol Hill,Daylight,Parking Lot,off network,1275 N GRANT ST
+2025,-104.99808033,39.74010243,Civic Center,Daylight,At Intersection,on network,W COLFAX AVE / N SPEER BLVD
+2025,-104.90051777,39.75932397,Central Park,Daylight,Driveway Access Related,off network,E 29TH DR / N ROSLYN ST
+2025,-104.97862375,39.73987508,Capitol Hill,Daylight,Non-Intersection,on network,700 BLOCK E COLFAX AVE
+2025,-105.00869111,39.68226546,College View - South Platte,Daylight,At Intersection,off network,W JEWELL AVE / S RARITAN ST
+2025,-104.97927107,39.70202042,Washington Park West,Daylight,At Intersection,off network,S WASHINGTON ST / E OHIO AVE
 2025,-104.98993579,39.72904514,Civic Center,Dark-Unlighted,At Intersection,on network,N SPEER BLVD / W 8TH AVE
+2025,-104.96731396,39.67831594,University,Daylight,Mid-Block Crosswalk,on network,1700 BLOCK E EVANS AVE
+2025,-104.90114391,39.74015416,East Colfax,Daylight,At Intersection,on network,E COLFAX AVE / N ROSLYN ST
 2025,-105.02515186,39.73800485,Sun Valley,Dark-Lighted,At Intersection,on network,N FEDERAL BLVD / W 14TH AVE
 2025,-104.90349819,39.7112801,Washington Virginia Vale,Daylight,At Intersection,on network,E ALAMEDA AVE / S QUEBEC ST
+2025,-105.05714271,39.65427717,Bear Valley,Dark-Lighted,Parking Lot,off network,5855 W HAMPDEN AVE
 2025,-104.96346399,39.7432193,City Park West,Daylight,Intersection Related,on network,E 17TH AVE / N RACE ST
 2025,-104.96476877,39.73999955,Cheesman Park,Daylight,Non-Intersection,on network,N HIGH ST / E COLFAX AVE
 2025,-104.93550778,39.74339599,South Park Hill,Daylight,At Intersection,off network,E 17TH AVE / N CLERMONT ST
 2025,-104.98978694,39.74706444,CBD,Daylight,Alley Related,off network,18TH ST / CALIFORNIA ST
-2025,-104.98412982,39.75950049,Five Points,Dark-Lighted,Non-Intersection,off network,LARIMER ST / 27TH ST
-2025,-104.95511287,39.74018584,City Park,Daylight,Non-Intersection,on network,N CLAYTON ST / E COLFAX AVE
-2025,-104.96357089,39.69205026,Washington Park,Daylight,Non-Intersection,off network,1300 BLOCK S RACE VINE ALY
-2025,-105.00869111,39.68226546,College View - South Platte,Daylight,At Intersection,off network,W JEWELL AVE / S RARITAN ST
-2025,-104.97927107,39.70202042,Washington Park West,Daylight,At Intersection,off network,S WASHINGTON ST / E OHIO AVE
-2025,-104.96731396,39.67831594,University,Daylight,Mid-Block Crosswalk,on network,1700 BLOCK E EVANS AVE
-2025,-104.90114391,39.74015416,East Colfax,Daylight,At Intersection,on network,E COLFAX AVE / N ROSLYN ST
-2025,-105.05714271,39.65427717,Bear Valley,Dark-Lighted,Parking Lot,off network,5855 W HAMPDEN AVE
 2025,-104.99036056,39.74006925,Civic Center,Daylight,At Intersection,on network,W COLFAX AVE / N BANNOCK ST
 2025,-104.99808031,39.74010518,Civic Center,Dark-Lighted,Mid-Block Crosswalk,on network,W COLFAX AVE / N SPEER BLVD
+2025,-104.98412982,39.75950049,Five Points,Dark-Lighted,Non-Intersection,off network,LARIMER ST / 27TH ST
+2025,-104.95511287,39.74018584,City Park,Daylight,Non-Intersection,on network,N CLAYTON ST / E COLFAX AVE
 2025,-104.93295445,39.7024953,Washington Virginia Vale,Daylight,Non-Intersection,off network,700 BLOCK S DEXTER ST
 2025,-104.99049878,39.73083201,Civic Center,Daylight,Roundabout,off network,909 N BANNOCK ST
 2025,-105.0092858,39.75830955,Highland,Dark-Lighted,Non-Intersection,off network,CENTRAL ST / 16TH ST
+2025,-105.02189768,39.67757874,College View - South Platte,Daylight,Parking Lot,off network,2770 W EVANS AVE
+2025,-104.99278702,39.69809605,Athmar Park,Dark-Lighted,Non-Intersection,off network,855 S PLATTE RIVER DR
+2025,-104.95065027,39.74016509,City Park,Daylight,At Intersection,on network,E COLFAX AVE / N ST PAUL ST
+2025,-105.02521824,39.74395684,Sun Valley,Dark-Lighted,At Intersection,on network,W 17TH AVE / N FEDERAL BLVD
+2025,-104.95938563,39.67303067,University,Daylight,At Intersection,on network,S UNIVERSITY BLVD / E WESLEY AVE
+2025,-104.94055133,39.68309755,Virginia Village,Dark-Unlighted,Ramp Related,on network,I25 HWYNB / S COLORADO BLVD
+2025,,,,Dark-Lighted,Non-Intersection,,S HIGH ST / W ASBURY AVE
+2025,-104.96523081,39.6784712,University,Daylight,At Intersection,on network,E EVANS AVE / S HIGH ST
+2025,-104.94054635,39.77287941,Northeast Park Hill,Dark-Lighted,Mid-Block Crosswalk,on network,E 40TH AVE / N COLORADO BLVD
+2025,-105.00025304,39.75507059,Union Station,Dawn or Dusk,At Intersection,off network,18TH ST / WEWATTA ST
+2025,-104.97536161,39.76762335,Five Points,Daylight,At Intersection,off network,35TH ST / WALNUT ST
+2025,-105.05324935,39.71134299,Westwood,Dark-Lighted,Crossover-Related,on network,S SHERIDAN BLVD / W ALAMEDA AVE
+2025,-104.90306207,39.63970946,Hampden South,Daylight,Non-Intersection,off network,7395 E QUINCY AVE
+2025,-105.0048476,39.75013757,Auraria,Daylight,At Intersection,on network,N SPEER BLVD / CHOPPER CIR
+2025,-105.00654984,39.75436692,Union Station,Dark-Lighted,At Intersection,off network,LITTLE RAVEN ST / 15TH ST
+2025,-104.97144114,39.74689563,City Park West,Daylight,Ramp Related,off network,1300 BLOCK E 20TH AVE
+2025,-104.93245175,39.67808143,Goldsmith,Dark-Lighted,Driveway Access Related,off network,4700 E EVANS AVE
+2025,-105.02499121,39.6976705,Athmar Park,Dark-Lighted,Intersection Related,on network,1090 BLOCK S FEDERAL BLVD
+2025,-104.9405526,39.68293832,Virginia Village,Dark-Lighted,Non-Intersection,on network,I25 HWYSB / S COLORADO BLVD
+2025,-104.90395767,39.7672368,Northeast Park Hill,Dark-Lighted,Parking Lot,off network,7260 E 36TH AVE
+2025,-104.98487327,39.73044514,Capitol Hill,Dark-Unlighted,At Intersection,off network,E 9TH AVE / N SHERMAN ST
+2025,-104.98732033,39.75318663,Five Points,Daylight,Intersection Related,on network,2200 BLOCK N BROADWAY ST
+2025,-104.99895716,39.75723382,Union Station,Daylight,Parking Lot,off network,1950 CHESTNUT PL
+2025,-104.98750914,39.71567329,Speer,Daylight,Mid-Block Crosswalk,on network,S BROADWAY ST / W ARCHER PL
+2025,-104.95522854,39.71796879,Cherry Creek,Daylight,Intersection Related,on network,2700 BLOCK E 1ST AVE
+2025,-104.97726846,39.7399377,Capitol Hill,Dark-Lighted,Non-Intersection,on network,800 BLOCK E COLFAX AVE
+2025,-104.98359985,39.72907241,Capitol Hill,Dark-Lighted,At Intersection,on network,E 8TH AVE / N GRANT ST
+2025,-105.02462942,39.73324245,Sun Valley,Daylight,Parking Lot,off network,1000 N FEDERAL BLVD
+2025,-105.04401091,39.76936425,Berkeley,Dawn or Dusk,At Intersection,on network,N TENNYSON ST / W 38TH AVE
+2025,-105.00485116,39.75013759,Auraria,Dark-Lighted,Non-Intersection,on network,N SPEER BLVD / WEWATTA ST
+2025,-104.98748286,39.7241369,Baker,Daylight,Non-Intersection,on network,E 5TH AVE / N BROADWAY ST
+2025,-104.98435797,39.75024175,Five Points,Daylight,Alley Related,off network,600 BLOCK 22ND ST
+2025,-104.76742381,39.78371488,Gateway - Green Valley Ranch,Daylight,Non-Intersection,off network,E GVR BLVD / N ANDES CT
+2025,-104.98491946,39.75078503,Five Points,Dark-Lighted,Non-Intersection,off network,CALIFORNIA ST / 22ND ST
+2025,-104.67063927,39.83813746,DIA,Dark-Lighted,Parking Lot,off network,7800 N SHADY GROVE ST
+2025,-105.01679298,39.75128807,Jefferson Park,Dark-Lighted,Non-Intersection,off network,I25 HWYSB / W 23RD AVE
+2025,-105.02508379,39.70394663,Westwood,Daylight,At Intersection,on network,W EXPOSITION AVE / S FEDERAL BLVD
+2025,-104.93161729,39.6784645,Virginia Village,Daylight,At Intersection,on network,E EVANS AVE / S DAHLIA ST
+2025,-104.99132049,39.74450701,CBD,Daylight,At Intersection,off network,16TH ST / WELTON ST
+2025,-104.98358883,39.74167591,North Capitol Hill,Daylight,At Intersection,on network,N GRANT ST / E 16TH AVE
+2025,-104.96410915,39.66763025,University,Daylight,At Intersection,off network,S RACE ST / E YALE AVE
+2025,-104.97980645,39.74246636,North Capitol Hill,Daylight,Non-Intersection,off network,1600 BLOCK N PEARL ST
+2025,-104.98741539,39.73385764,Civic Center,Dark-Lighted,At Intersection,on network,E 11TH AVE / N BROADWAY ST
+2025,-104.98480719,39.75348037,Five Points,Daylight,Intersection Related,off network,2300 BLOCK CHAMPA ST
+2025,-104.94065132,39.6874933,Virginia Village,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E IOWA AVE
+2025,-104.94059157,39.75829686,North Park Hill,Daylight,Non-Intersection,on network,N COLORADO BLVD / E 29TH AVE
+2025,-104.99228111,39.77146126,Globeville,,,off network,3900 BLOCK N ELATI ST
+2025,-104.99602657,39.73740604,Civic Center,Dark-Lighted,Non-Intersection,on network,1300 BLOCK N SPEER BLVD
+2025,-104.98485598,39.74006175,North Capitol Hill,Daylight,At Intersection,on network,E COLFAX AVE / N SHERMAN ST
+2025,,,,Dark-Lighted,Non-Intersection,,2000 BLK S SHERIDAN AVE
+2025,-104.77172665,39.78328312,Gateway - Green Valley Ranch,Daylight,Driveway Access Related,off network,18500 BLOCK E GVR BLVD
 2025,-104.903705,39.71706003,Lowry Field,Dark-Lighted,At Intersection,on network,E LOWRY BLVD / N QUEBEC ST
 2025,-104.99280571,39.74369807,CBD,Daylight,Driveway Access Related,off network,600 BLOCK 15TH ST
 2025,-104.89650449,39.71894502,Lowry Field,Daylight,Parking Lot,off network,7600 E ACADEMY BLVD
@@ -88,87 +181,11 @@ year,geo_lon,geo_lat,neighborhood_id,LIGHT_CONDITION,ROAD_DESCRIPTION,on_hin,inc
 2025,-104.8888626,39.73798813,East Colfax,Daylight,Alley Related,off network,1300 BLOCK N WABASH WILLOW ALY
 2025,-104.98069913,39.73764961,Capitol Hill,Daylight,Non-Intersection,off network,1352 N PENNSYLVANIA ST
 2025,-104.98748198,39.69116859,Overland,Daylight,At Intersection,on network,S BROADWAY ST / E ARKANSAS AVE
-2025,-104.95065027,39.74016509,City Park,Daylight,At Intersection,on network,E COLFAX AVE / N ST PAUL ST
-2025,-105.04401091,39.76936425,Berkeley,Dawn or Dusk,At Intersection,on network,N TENNYSON ST / W 38TH AVE
-2025,-105.00485116,39.75013759,Auraria,Dark-Lighted,Non-Intersection,on network,N SPEER BLVD / WEWATTA ST
-2025,-104.99285911,39.72893699,Lincoln Park,Daylight,At Intersection,on network,W 8TH AVE / N DELAWARE ST
-2025,-105.02495034,39.68218404,College View - South Platte,Daylight,Intersection Related,on network,1900 S FEDERAL BLVD
-2025,-104.98294905,39.74308142,North Capitol Hill,Daylight,At Intersection,on network,300 BLOCK E 17TH AVE
-2025,-104.90178694,39.65225757,Hampden South,Dark-Lighted,Parking Lot,off network,7400 E HAMPDEN AVE
-2025,-104.98851203,39.73511425,Civic Center,Daylight,Driveway Access Related,off network,60 BLOCK W 12TH AVE
-2025,-104.81123245,39.78592294,Montbello,Daylight,Parking Lot,off network,5141 N CHAMBERS RD
-2025,-104.98006312,39.69825188,Washington Park West,UNDER INVESTIGATION,UNDER INVESTIGATION,off network,1000 BLOCK S PEARL ST
-2025,-105.02523188,39.77293568,Berkeley,Daylight,At Intersection,on network,W 41ST AVE / N FEDERAL BLVD
-2025,-104.90224467,39.74743475,East Colfax,Daylight,At Intersection,off network,E MONTVIEW BLVD / N QUINCE ST
-2025,-105.02492767,39.72543061,Valverde,Dark-Lighted,Intersection Related,on network,W 6TH AVE / N FEDERAL BLVD
-2025,-104.98488335,39.7653841,Five Points,Daylight,Driveway Access Related,off network,3000 BLOCK N BRIGHTON BLVD
-2025,-104.9777007,39.75638648,Five Points,Dark-Unlighted,Non-Intersection,off network,CALIFORNIA ST / 28TH ST
-2025,-104.99635136,39.74466591,CBD,Daylight,At Intersection,off network,CHAMPA ST / 14TH ST
-2025,-105.01447238,39.75718904,Highland,Daylight,Non-Intersection,off network,N WYANDOT ST / W 28TH AVE
-2025,-104.93161729,39.6784645,Virginia Village,Daylight,At Intersection,on network,E EVANS AVE / S DAHLIA ST
-2025,-104.96410915,39.66763025,University,Daylight,At Intersection,off network,S RACE ST / E YALE AVE
-2025,-104.97980645,39.74246636,North Capitol Hill,Daylight,Non-Intersection,off network,1600 BLOCK N PEARL ST
-2025,-104.98741539,39.73385764,Civic Center,Dark-Lighted,At Intersection,on network,E 11TH AVE / N BROADWAY ST
-2025,-104.94059157,39.75829686,North Park Hill,Daylight,Non-Intersection,on network,N COLORADO BLVD / E 29TH AVE
-2025,-104.99228111,39.77146126,Globeville,,,off network,3900 BLOCK N ELATI ST
-2025,-104.99602657,39.73740604,Civic Center,Dark-Lighted,Non-Intersection,on network,1300 BLOCK N SPEER BLVD
-2025,-104.98485598,39.74006175,North Capitol Hill,Daylight,At Intersection,on network,E COLFAX AVE / N SHERMAN ST
-2025,,,,Dark-Lighted,Non-Intersection,,2000 BLK S SHERIDAN AVE
-2025,-104.90051777,39.75932397,Central Park,Daylight,Driveway Access Related,off network,E 29TH DR / N ROSLYN ST
-2025,-104.97862375,39.73987508,Capitol Hill,Daylight,Non-Intersection,on network,700 BLOCK E COLFAX AVE
-2025,-105.02521824,39.74395684,Sun Valley,Dark-Lighted,At Intersection,on network,W 17TH AVE / N FEDERAL BLVD
-2025,,,,Dark-Lighted,Non-Intersection,,S HIGH ST / W ASBURY AVE
-2025,-104.96523081,39.6784712,University,Daylight,At Intersection,on network,E EVANS AVE / S HIGH ST
-2025,-104.97536161,39.76762335,Five Points,Daylight,At Intersection,off network,35TH ST / WALNUT ST
-2025,-105.05324935,39.71134299,Westwood,Dark-Lighted,Crossover-Related,on network,S SHERIDAN BLVD / W ALAMEDA AVE
-2025,-104.90306207,39.63970946,Hampden South,Daylight,Non-Intersection,off network,7395 E QUINCY AVE
-2025,-105.00654984,39.75436692,Union Station,Dark-Lighted,At Intersection,off network,LITTLE RAVEN ST / 15TH ST
-2025,-104.93245175,39.67808143,Goldsmith,Dark-Lighted,Driveway Access Related,off network,4700 E EVANS AVE
-2025,-105.02499121,39.6976705,Athmar Park,Dark-Lighted,Intersection Related,on network,1090 BLOCK S FEDERAL BLVD
-2025,-104.9405526,39.68293832,Virginia Village,Dark-Lighted,Non-Intersection,on network,I25 HWYSB / S COLORADO BLVD
 2025,-104.9801952,39.74087307,North Capitol Hill,Daylight,Parking Lot,off network,1543 N PEARL ST
 2025,-104.97924498,39.77833054,Globeville,Daylight,At Intersection,on network,E 45TH AVE / N WASHINGTON ST
 2025,-104.94061095,39.69657189,Belcaro,Daylight,At Intersection,on network,S COLORADO BLVD / E MISSISSIPPI AVE
 2025,-104.89280994,39.75356057,Central Park,Dark-Lighted,Non-Intersection,off network,8200 BLOCK E 25TH DR
-2025,-104.99116003,39.75387862,Five Points,Dark-Lighted,Non-Intersection,off network,2100 BLOCK LARIMER ST
-2025,-104.98364394,39.76655089,Five Points,Daylight,At Intersection,off network,N BRIGHTON BLVD / 31ST ST
-2025,-104.95813713,39.68934042,Cory - Merrill,Daylight,At Intersection,off network,E FLORIDA AVE / S JOSEPHINE ST
-2025,-104.95462732,39.71939905,Cherry Creek,Daylight,At Intersection,off network,E 2ND AVE / N DETROIT ST
-2025,-104.98981644,39.74154385,CBD,Daylight,Non-Intersection,off network,1500 COURT PL
-2025,-104.98487327,39.73044514,Capitol Hill,Dark-Unlighted,At Intersection,off network,E 9TH AVE / N SHERMAN ST
-2025,-105.02462942,39.73324245,Sun Valley,Daylight,Parking Lot,off network,1000 N FEDERAL BLVD
-2025,-105.02507927,39.70041341,Athmar Park,Daylight,At Intersection,on network,W KENTUCKY AVE / S FEDERAL BLVD
-2025,-104.94061095,39.69657189,Belcaro,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E MISSISSIPPI AVE
-2025,-104.97614285,39.74590914,North Capitol Hill,Dark-Unlighted,At Intersection,on network,PARK AVE / N EMERSON ST
-2025,-105.00632395,39.67935374,College View - South Platte,Daylight,Intersection Related,off network,2000 BLOCK S PECOS ST
-2025,-104.96476522,39.73999954,Cheesman Park,Daylight,At Intersection,on network,N HIGH ST / E COLFAX AVE
-2025,-105.02604631,39.66773432,Harvey Park,Daylight,At Intersection,off network,W YALE AVE / S GREEN CT
-2025,-104.81123245,39.78592294,Montbello,Daylight,Parking Lot,off network,5141 N CHAMBERS RD
-2025,,,,Daylight,At Intersection,,I25 HWYSB/ COLORADO AVE
-2025,-104.98359985,39.72907241,Capitol Hill,Dark-Lighted,At Intersection,on network,E 8TH AVE / N GRANT ST
-2025,-104.67063927,39.83813746,DIA,Dark-Lighted,Parking Lot,off network,7800 N SHADY GROVE ST
-2025,-104.99132049,39.74450701,CBD,Daylight,At Intersection,off network,16TH ST / WELTON ST
-2025,-104.98358883,39.74167591,North Capitol Hill,Daylight,At Intersection,on network,N GRANT ST / E 16TH AVE
-2025,-104.98480719,39.75348037,Five Points,Daylight,Intersection Related,off network,2300 BLOCK CHAMPA ST
-2025,-104.94065132,39.6874933,Virginia Village,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E IOWA AVE
-2025,,,,Daylight,Non-Intersection,,PRIVATE RD
-2025,-104.9479435,39.76419268,Clayton,Daylight,Non-Intersection,off network,3330 E BRUCE RANDOLPH AVE
-2025,-104.99530869,39.73685665,Civic Center,Daylight,Non-Intersection,on network,W 13TH AVE / N FOX ST
-2025,-104.85842383,39.65989159,Kennedy,Dark-Lighted,Parking Lot,off network,11100 E DARTMOUTH AVE
-2025,-104.95938233,39.67484258,University,Daylight,At Intersection,on network,E ILIFF AVE / S UNIVERSITY BLVD
-2025,-104.89285843,39.74015563,East Colfax,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N UINTA ST
-2025,-104.88403477,39.79819392,Central Park,Daylight,Non-Intersection,off network,8900 E 56TH AVE
-2025,-105.00414892,39.75489215,Union Station,Daylight,Share-Use Path or Trail,off network,1610 LITTLE RAVEN ST
-2025,-104.96101376,39.7399879,Cheesman Park,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N GAYLORD ST
-2025,-104.89285843,39.74015563,East Colfax,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N UINTA ST
-2025,-104.91250821,39.71094111,Washington Virginia Vale,Daylight,At Intersection,off network,6504 E ALAMEDA AVE
-2025,-104.98723622,39.72431976,Speer,Daylight,Non-Intersection,on network,500 BLOCK N BROADWAY ST
-2025,-104.88260687,39.78818282,Central Park,Daylight,At Intersection,off network,N CENTRAL PARK BLVD / E 50TH AVE
-2025,-104.83383097,39.77287023,Central Park,Dark-Lighted,Non-Intersection,off network,I70 HWYEB / I225 HWYSB
-2025,-105.04978517,39.65627528,Harvey Park South,Daylight,Intersection Related,off network,5100 BLOCK W DARTMOUTH AVE
-2025,-104.95921828,39.71827546,Cherry Creek,Daylight,Intersection Related,on network,E 1ST AVE / N UNIVERSITY BLVD
-2025,-105.02508399,39.70759238,Westwood,Daylight,At Intersection,on network,W VIRGINIA AVE / S FEDERAL BLVD
-2025,-105.02478326,39.72995424,Sun Valley,Daylight,Parking Lot,off network,830 N FEDERAL BLVD
+2025,-104.97337296,39.70749026,Washington Park,Dawn or Dusk,At Intersection,off network,S DOWNING ST / E VIRGINIA AVE
 2025,-104.98547542,39.75305229,Five Points,Daylight,At Intersection,on network,CHAMPA ST / PARK AVEW
 2025,-105.02713056,39.74145263,West Colfax,Dark-Lighted,Non-Intersection,off network,3100 BLOCK W CONEJOS PL
 2025,-105.00049986,39.73839694,Lincoln Park,Dark-Lighted,Alley Related,on network,1000 BLOCK W 14TH AVE
@@ -179,286 +196,269 @@ year,geo_lon,geo_lat,neighborhood_id,LIGHT_CONDITION,ROAD_DESCRIPTION,on_hin,inc
 2025,-104.96841521,39.75949645,Whittier,Daylight,At Intersection,off network,E 30TH AVE / N FRANKLIN ST
 2025,-104.89871806,39.75101584,Central Park,Daylight,At Intersection,off network,E 23RD AVE / N SYRACUSE ST
 2025,-105.00618347,39.71093793,Athmar Park,Daylight,Non-Intersection,on network,300 BLOCK S PECOS ST
+2025,-104.81123245,39.78592294,Montbello,Daylight,Parking Lot,off network,5141 N CHAMBERS RD
+2025,-104.98006312,39.69825188,Washington Park West,UNDER INVESTIGATION,UNDER INVESTIGATION,off network,1000 BLOCK S PEARL ST
+2025,-105.02523188,39.77293568,Berkeley,Daylight,At Intersection,on network,W 41ST AVE / N FEDERAL BLVD
+2025,-104.90224467,39.74743475,East Colfax,Daylight,At Intersection,off network,E MONTVIEW BLVD / N QUINCE ST
+2025,-105.02492767,39.72543061,Valverde,Dark-Lighted,Intersection Related,on network,W 6TH AVE / N FEDERAL BLVD
+2025,-104.98488335,39.7653841,Five Points,Daylight,Driveway Access Related,off network,3000 BLOCK N BRIGHTON BLVD
+2025,-104.9777007,39.75638648,Five Points,Dark-Unlighted,Non-Intersection,off network,CALIFORNIA ST / 28TH ST
+2025,-104.88260687,39.78818282,Central Park,Daylight,At Intersection,off network,N CENTRAL PARK BLVD / E 50TH AVE
+2025,-104.83383097,39.77287023,Central Park,Dark-Lighted,Non-Intersection,off network,I70 HWYEB / I225 HWYSB
+2025,-105.04978517,39.65627528,Harvey Park South,Daylight,Intersection Related,off network,5100 BLOCK W DARTMOUTH AVE
+2025,-104.95921828,39.71827546,Cherry Creek,Daylight,Intersection Related,on network,E 1ST AVE / N UNIVERSITY BLVD
+2025,-104.99185762,39.74399596,CBD,Daylight,Driveway Access Related,off network,1500 BLOCK WELTON ST
+2025,-105.02522281,39.75483904,Jefferson Park,Dark-Lighted,At Intersection,on network,W 26TH AVE / N FEDERAL BLVD
+2025,-104.94069185,39.72922765,Hale,Daylight,At Intersection,on network,N COLORADO BLVD / E 8TH AVE
+2025,-104.80989838,39.77504938,Montbello,Daylight,At Intersection,on network,N CHAMBERS RD / E ANDREWS DR
+2025,-104.96844598,39.74323917,City Park West,Daylight,At Intersection,on network,E 17TH AVE / N FRANKLIN ST
+2025,-105.05326587,39.67915988,Harvey Park,Dark-Lighted,At Intersection,on network,W EVANS AVE / S SHERIDAN BLVD
+2025,-104.97333067,39.7637929,Cole,Dark-Lighted,At Intersection,on network,N DOWNING ST / CURTIS ST
+2025,-104.91289848,39.68936209,Virginia Village,Daylight,At Intersection,off network,S MONACO ST / E FLORIDA AVE
+2025,-104.77212087,39.78369734,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,E GVR BLVD / N TOWER RD
+2025,-105.03247056,39.71815564,Barnum,Daylight,At Intersection,off network,N KNOX CT / W 1ST AVE
+2025,-104.99116003,39.75387862,Five Points,Dark-Lighted,Non-Intersection,off network,2100 BLOCK LARIMER ST
+2025,-104.98364394,39.76655089,Five Points,Daylight,At Intersection,off network,N BRIGHTON BLVD / 31ST ST
+2025,-104.95813713,39.68934042,Cory - Merrill,Daylight,At Intersection,off network,E FLORIDA AVE / S JOSEPHINE ST
+2025,-104.95462732,39.71939905,Cherry Creek,Daylight,At Intersection,off network,E 2ND AVE / N DETROIT ST
+2025,-104.98981644,39.74154385,CBD,Daylight,Non-Intersection,off network,1500 COURT PL
+2025,-105.02507927,39.70041341,Athmar Park,Daylight,At Intersection,on network,W KENTUCKY AVE / S FEDERAL BLVD
+2025,-104.94061095,39.69657189,Belcaro,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E MISSISSIPPI AVE
+2025,-104.99760007,39.73367645,Lincoln Park,Daylight,At Intersection,off network,W 11TH AVE / N INCA ST
+2025,-104.97614285,39.74590914,North Capitol Hill,Dark-Unlighted,At Intersection,on network,PARK AVE / N EMERSON ST
+2025,-104.99635136,39.74466591,CBD,Daylight,At Intersection,off network,CHAMPA ST / 14TH ST
+2025,-105.01447238,39.75718904,Highland,Daylight,Non-Intersection,off network,N WYANDOT ST / W 28TH AVE
+2025,-104.96481736,39.72710795,Country Club,Daylight,At Intersection,off network,E 7TH AVE / N HIGH ST
+2025,-105.00632395,39.67935374,College View - South Platte,Daylight,Intersection Related,off network,2000 BLOCK S PECOS ST
+2025,-105.02486435,39.72218269,Valverde,Daylight,Non-Intersection,on network,400 BLOCK N FEDERAL BLVD
+2025,-104.78594688,39.78417457,Gateway - Green Valley Ranch,UNDER INVESTIGATION,UNDER INVESTIGATION,off network,17301 E GVR BLVD
+2025,-104.96476522,39.73999954,Cheesman Park,Daylight,At Intersection,on network,N HIGH ST / E COLFAX AVE
+2025,-105.02604631,39.66773432,Harvey Park,Daylight,At Intersection,off network,W YALE AVE / S GREEN CT
+2025,-104.98890283,39.74638252,CBD,Dawn or Dusk,At Intersection,off network,WELTON ST / 18TH ST
+2025,-104.88141886,39.65306085,Hampden South,Dark-Lighted,At Intersection,on network,E HAMPDEN AVE / S AKRON ST
+2025,-104.98744931,39.72094399,Speer,Daylight,At Intersection,on network,W 3RD AVE / N BROADWAY ST
+2025,-105.02478326,39.72995424,Sun Valley,Daylight,Parking Lot,off network,830 N FEDERAL BLVD
+2025,,,,Daylight,Non-Intersection,,PRIVATE RD
+2025,-104.9479435,39.76419268,Clayton,Daylight,Non-Intersection,off network,3330 E BRUCE RANDOLPH AVE
 2025,-104.98757412,39.71115757,Washington Park West,Daylight,At Intersection,on network,W ALAMEDA AVE / S BROADWAY ST
 2025,-104.98786983,39.72859418,Civic Center,Daylight,Driveway Access Related,off network,777 N BROADWAY ST
 2025,-104.77015688,39.78504958,Gateway - Green Valley Ranch,Daylight,Parking Lot,off network,18605 E GVR BLVD
 2025,-105.04369281,39.77177882,Berkeley,Dark-Lighted,Non-Intersection,off network,4000 BLOCK N TENNYSON ST
 2025,-105.01322572,39.72567927,Baker,Daylight,Non-Intersection,off network,I25 HWYNB / W 6TH AVE
-2025,-104.99760007,39.73367645,Lincoln Park,Daylight,At Intersection,off network,W 11TH AVE / N INCA ST
+2025,-104.96101376,39.7399879,Cheesman Park,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N GAYLORD ST
+2025,-104.89285843,39.74015563,East Colfax,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N UINTA ST
+2025,-104.91250821,39.71094111,Washington Virginia Vale,Daylight,At Intersection,off network,6504 E ALAMEDA AVE
+2025,-104.98723622,39.72431976,Speer,Daylight,Non-Intersection,on network,500 BLOCK N BROADWAY ST
 2025,-104.77258324,39.81697262,DIA,Daylight,Parking Lot,off network,6651 N TOWER RD
-2025,-104.96481736,39.72710795,Country Club,Daylight,At Intersection,off network,E 7TH AVE / N HIGH ST
 2025,-104.97412924,39.73842205,Capitol Hill,Dark-Lighted,At Intersection,on network,E 14TH AVE / N CORONA ST
 2025,-104.97647498,39.74000555,Capitol Hill,Dark-Lighted,Non-Intersection,on network,N EMERSON ST / E COLFAX AVE
 2025,-105.02524174,39.76202342,Highland,Daylight,At Intersection,on network,W 32ND AVE / N FEDERAL BLVD
-2025,-105.02486435,39.72218269,Valverde,Daylight,Non-Intersection,on network,400 BLOCK N FEDERAL BLVD
-2025,-104.78594688,39.78417457,Gateway - Green Valley Ranch,UNDER INVESTIGATION,UNDER INVESTIGATION,off network,17301 E GVR BLVD
+2025,-104.81123245,39.78592294,Montbello,Daylight,Parking Lot,off network,5141 N CHAMBERS RD
+2025,,,,Daylight,At Intersection,,I25 HWYSB/ COLORADO AVE
+2025,-104.99285911,39.72893699,Lincoln Park,Daylight,At Intersection,on network,W 8TH AVE / N DELAWARE ST
+2025,-105.02495034,39.68218404,College View - South Platte,Daylight,Intersection Related,on network,1900 S FEDERAL BLVD
+2025,-104.98294905,39.74308142,North Capitol Hill,Daylight,At Intersection,on network,300 BLOCK E 17TH AVE
+2025,-104.90178694,39.65225757,Hampden South,Dark-Lighted,Parking Lot,off network,7400 E HAMPDEN AVE
+2025,-104.98851203,39.73511425,Civic Center,Daylight,Driveway Access Related,off network,60 BLOCK W 12TH AVE
+2025,-104.99530869,39.73685665,Civic Center,Daylight,Non-Intersection,on network,W 13TH AVE / N FOX ST
+2025,-104.97642976,39.73367749,Capitol Hill,Daylight,At Intersection,off network,E 11TH AVE / N EMERSON ST
+2025,-105.00015722,39.7320896,Lincoln Park,Daylight,At Intersection,off network,N KALAMATH ST / W 10TH AVE
+2025,-104.85842383,39.65989159,Kennedy,Dark-Lighted,Parking Lot,off network,11100 E DARTMOUTH AVE
+2025,-104.95938233,39.67484258,University,Daylight,At Intersection,on network,E ILIFF AVE / S UNIVERSITY BLVD
+2025,-104.99641388,39.73051157,Lincoln Park,Daylight,At Intersection,off network,W 9TH AVE / N GALAPAGO ST
+2025,-104.89285843,39.74015563,East Colfax,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N UINTA ST
+2025,-104.88403477,39.79819392,Central Park,Daylight,Non-Intersection,off network,8900 E 56TH AVE
+2025,-105.00414892,39.75489215,Union Station,Daylight,Share-Use Path or Trail,off network,1610 LITTLE RAVEN ST
+2025,-104.99017161,39.75481047,Five Points,Dark-Lighted,At Intersection,off network,22ND ST / LARIMER ST
+2025,-104.99402567,39.73923403,Civic Center,Daylight,At Intersection,off network,1400 BLOCK N ELATI ST
+2025,-105.02508399,39.70759238,Westwood,Daylight,At Intersection,on network,W VIRGINIA AVE / S FEDERAL BLVD
 2025,-104.99009389,39.74544607,CBD,Daylight,At Intersection,off network,17TH ST / WELTON ST
 2025,-104.96864209,39.68121553,University,Daylight,Non-Intersection,off network,1900 BLOCK S FRANKLIN ST
 2025,-104.88282357,39.78095024,Central Park,Dark-Lighted,At Intersection,off network,N CENTRAL PARK BLVD / E 46TH PL
 2025,-105.02366777,39.74395607,Sun Valley,Daylight,At Intersection,off network,W DICK CONNOR AVE / MILE HIGH STADIUM W CIR
 2025,-104.98962625,39.75252955,Five Points,Dark-Lighted,At Intersection,off network,21ST ST / ARAPAHOE ST
 2025,-104.95584668,39.71939646,Cherry Creek,Daylight,At Intersection,off network,E 2ND AVE / N CLAYTON ST
-2025,-105.00015722,39.7320896,Lincoln Park,Daylight,At Intersection,off network,N KALAMATH ST / W 10TH AVE
-2025,-104.99017161,39.75481047,Five Points,Dark-Lighted,At Intersection,off network,22ND ST / LARIMER ST
-2025,-104.99402567,39.73923403,Civic Center,Daylight,At Intersection,off network,1400 BLOCK N ELATI ST
-2025,-104.98890283,39.74638252,CBD,Dawn or Dusk,At Intersection,off network,WELTON ST / 18TH ST
-2025,-104.88141886,39.65306085,Hampden South,Dark-Lighted,At Intersection,on network,E HAMPDEN AVE / S AKRON ST
-2025,-104.99185762,39.74399596,CBD,Daylight,Driveway Access Related,off network,1500 BLOCK WELTON ST
-2025,-105.02522281,39.75483904,Jefferson Park,Dark-Lighted,At Intersection,on network,W 26TH AVE / N FEDERAL BLVD
-2025,-104.97642976,39.73367749,Capitol Hill,Daylight,At Intersection,off network,E 11TH AVE / N EMERSON ST
-2025,-104.94069185,39.72922765,Hale,Daylight,At Intersection,on network,N COLORADO BLVD / E 8TH AVE
-2025,-104.80989838,39.77504938,Montbello,Daylight,At Intersection,on network,N CHAMBERS RD / E ANDREWS DR
-2025,-104.96844598,39.74323917,City Park West,Daylight,At Intersection,on network,E 17TH AVE / N FRANKLIN ST
-2025,-105.05326587,39.67915988,Harvey Park,Dark-Lighted,At Intersection,on network,W EVANS AVE / S SHERIDAN BLVD
-2025,-104.98233956,39.74327091,North Capitol Hill,Dawn or Dusk,At Intersection,on network,E 17TH AVE / N LOGAN ST
-2025,-104.82480389,39.7870365,Montbello,Daylight,At Intersection,off network,E 51ST AVE / E BOLLING DR
-2025,-104.97817585,39.74750219,Five Points,Dark-Lighted,Mid-Block Crosswalk,on network,PARK AVEW / E 20TH AVE
-2025,-104.91139529,39.71183051,Hilltop,Daylight,Parking Lot,off network,290 S MONACO ST
-2025,-104.99369577,39.75931966,Five Points,Daylight,At Intersection,off network,DELGANY ST / PARK AVEW
-2025,-104.97944421,39.75773114,Five Points,Daylight,At Intersection,off network,CHAMPA ST / 28TH ST
-2025,-104.95977982,39.73999048,City Park,Daylight,At Intersection,on network,E COLFAX AVE / N YORK ST
-2025,-104.97333067,39.7637929,Cole,Dark-Lighted,At Intersection,on network,N DOWNING ST / CURTIS ST
-2025,-104.91289848,39.68936209,Virginia Village,Daylight,At Intersection,off network,S MONACO ST / E FLORIDA AVE
-2025,-104.77212087,39.78369734,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,E GVR BLVD / N TOWER RD
-2025,-105.03247056,39.71815564,Barnum,Daylight,At Intersection,off network,N KNOX CT / W 1ST AVE
-2025,-104.98744931,39.72094399,Speer,Daylight,At Intersection,on network,W 3RD AVE / N BROADWAY ST
+2025,-105.04930759,39.71740326,Barnum West,Dark-Lighted,Non-Intersection,off network,0 BLOCK N XAVIER ST
+2025,-105.08616325,39.63733985,Marston,Daylight,Parking Lot,off network,7900 W QUINCY AVE
+2025,-105.0251889,39.73568525,Sun Valley,Daylight,At Intersection,on network,W HOLDEN PL / N FEDERAL BLVD
 2025,-105.03437545,39.67859517,Harvey Park,Daylight,At Intersection,off network,W EVANS AVE / S LOWELL BLVD
 2025,-104.98581434,39.75145604,Five Points,Dark-Lighted,At Intersection,off network,STOUT ST / 22ND ST
 2025,-104.88699818,39.7401527,East Colfax,Daylight,Intersection Related,on network,E COLFAX AVE / N XANTHIA ST
 2025,-105.02505787,39.69674835,Athmar Park,Daylight,Non-Intersection,on network,W MISSISSIPPI AVE / S FEDERAL BLVD
 2025,,,,Daylight,Alley Related,,1500 BLK N DOWNING ST / N MARION ST
 2025,-104.90345537,39.74014669,South Park Hill,Daylight,At Intersection,on network,E COLFAX AVE / N QUEBEC ST
+2025,-104.82648326,39.79335195,Montbello,Dark-Lighted,Non-Intersection,off network,E MAXWELL PL / N ATCHISON ST
+2025,-104.82480389,39.7870365,Montbello,Daylight,At Intersection,off network,E 51ST AVE / E BOLLING DR
 2025,-104.93944734,39.75104118,South Park Hill,Daylight,At Intersection,off network,E 23RD AVE / N ALBION ST
 2025,-104.98109595,39.73688268,Capitol Hill,Daylight,Mid-Block Crosswalk,on network,E 13TH AVE / N PENNSYLVANIA ST
 2025,-105.04013259,39.7065623,Westwood,Daylight,Parking Lot,off network,4005 MORRISON RD
-2025,-104.86959198,39.67364314,Hampden,Dark-Lighted,Non-Intersection,off network,2300 BLOCK S PARKER RD
-2025,-104.91769879,39.69411616,Washington Virginia Vale,Dark-Lighted,Non-Intersection,off network,S KEARNEY ST / E CHERRY CREEK N DR
+2025,-104.88469067,39.65378084,Hampden,Daylight,Driveway Access Related,off network,3400 BLOCK S YOSEMITE ST
+2025,-104.97335741,39.75454976,Whittier,Daylight,Non-Intersection,on network,N DOWNING ST / E 26TH AVE
+2025,-104.9335086,39.70253092,Washington Virginia Vale,Daylight,Parking Lot,off network,755 S DEXTER ST
 2025,-104.98288661,39.75106711,Five Points,Daylight,At Intersection,on network,WELTON ST / PARK AVEW
 2025,-104.99294675,39.71140322,Baker,Dark-Lighted,Driveway Access Related,on network,275 S CHEROKEE ST
 2025,-104.77015688,39.78504958,Gateway - Green Valley Ranch,Daylight,Parking Lot,off network,18605 E GVR BLVD
 2025,-104.99329387,39.74258011,CBD,Daylight,Non-Intersection,off network,1400 BLOCK WELTON ST
-2025,-105.05301483,39.65051415,Fort Logan,Daylight,Driveway Access Related,off network,S SHERIDAN BLVD / W KENYON AVE
-2025,-104.94979073,39.77765851,Elyria Swansea,Daylight,At Intersection,off network,E 44TH AVE / N STEELE ST
-2025,-104.96842145,39.77837825,Elyria Swansea,Dark-Lighted,Non-Intersection,off network,N BRIGHTON BLVD / 44TH ST
-2025,-104.77212087,39.78369734,Gateway - Green Valley Ranch,Dark-Lighted,At Intersection,off network,E GVR BLVD / N TOWER RD
-2025,-105.05316261,39.70542931,Westwood,Dark-Lighted,Non-Intersection,on network,600 BLOCK S SHERIDAN BLVD
-2025,-104.91269852,39.77313361,Northeast Park Hill,Dark-Lighted,At Intersection,off network,N MONACO ST / E SMITH RD
-2025,-105.0169128,39.71118015,Athmar Park,Daylight,At Intersection,on network,W ALAMEDA AVE / S ALCOTT ST
-2025,-105.02140726,39.67968241,College View - South Platte,Daylight,Parking Lot,off network,2727 W EVANS AVE
-2025,-104.99239739,39.71118397,Baker,Daylight,At Intersection,on network,W ALAMEDA AVE / S CHEROKEE ST
-2025,-104.88422418,39.78028499,Central Park,Daylight,Parking Lot,off network,8969 E 46TH AVE
-2025,-104.98929797,39.75414234,Five Points,Dark-Lighted,At Intersection,off network,22ND ST / LAWRENCE ST
-2025,-105.02443288,39.66678616,College View - South Platte,Daylight,Non-Intersection,off network,2700 BLOCK S FEDERAL BLVD
-2025,-105.02518546,39.78924209,Regis,Dark-Lighted,At Intersection,on network,N FEDERAL BLVD / W 51ST AVE
-2025,-104.88464763,39.7401569,,Dark-Lighted,Intersection Related,on network,E COLFAX AVE / N YOSEMITE ST
-2025,-104.71950483,39.83612134,DIA,Daylight,Parking Lot,off network,7684 N WENATCHEE ST
-2025,-104.82648326,39.79335195,Montbello,Dark-Lighted,Non-Intersection,off network,E MAXWELL PL / N ATCHISON ST
-2025,-105.04930759,39.71740326,Barnum West,Dark-Lighted,Non-Intersection,off network,0 BLOCK N XAVIER ST
-2025,-105.02505605,39.67863751,College View - South Platte,Daylight,At Intersection,on network,S FEDERAL BLVD / W EVANS AVE
-2025,-104.88469067,39.65378084,Hampden,Daylight,Driveway Access Related,off network,3400 BLOCK S YOSEMITE ST
-2025,-104.97335741,39.75454976,Whittier,Daylight,Non-Intersection,on network,N DOWNING ST / E 26TH AVE
-2025,-104.9335086,39.70253092,Washington Virginia Vale,Daylight,Parking Lot,off network,755 S DEXTER ST
-2025,-104.89206289,39.74045076,East Colfax,Dark-Lighted,Non-Intersection,off network,8275 E COLFAX AVE
-2025,-104.9788527,39.77031821,Five Points,Dawn or Dusk,At Intersection,off network,35TH ST / N BRIGHTON BLVD
-2025,-104.9876973,39.76390023,Five Points,Dark-Lighted,At Intersection,off network,1859 28TH ST
-2025,-105.0203891,39.70390013,Athmar Park,Daylight,At Intersection,off network,W EXPOSITION AVE / S CLAY ST
+2025,-104.70090228,39.83677081,DIA,Dark-Lighted,Parking Lot,off network,24530 E 78TH AVE
+2025,,,,Daylight,At Intersection,,S DUDLEY ST / W BELLEVIEW AVE
 2025,-104.98293141,39.76042587,Five Points,Dark-Lighted,Intersection Related,off network,28TH ST / LARIMER ST
 2025,-104.8939428,39.74018044,East Colfax,Daylight,Alley Related,on network,1500K N ULSTER ST
-2025,-104.97414929,39.74001714,Capitol Hill,Daylight,Non-Intersection,on network,E COLFAX AVE / N CORONA ST
-2025,-104.77212659,39.78177569,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,E 47TH AVE / N TOWER RD
-2025,-104.76514545,39.78381873,Gateway - Green Valley Ranch,Daylight,Parking Lot,off network,18695 E GVR BLVD
-2025,-104.94055165,39.68840702,Virginia Village,Dark-Lighted,Non-Intersection,on network,1500 BLOCK S COLORADO BLVD
-2025,-104.98364037,39.76655362,Five Points,Daylight,At Intersection,off network,31ST ST / N BRIGHTON BLVD
-2025,-104.94074853,39.67841495,University Park,Dark-Lighted,Non-Intersection,on network,E EVANS AVE / S COLORADO BLVD
-2025,-104.99495175,39.76568578,Globeville,Daylight,At Intersection,off network,N GLOBEVILLE RD / PARK AVEW
-2025,-105.08616325,39.63733985,Marston,Daylight,Parking Lot,off network,7900 W QUINCY AVE
-2025,-104.84700886,39.78238774,Montbello,Dark-Lighted,Non-Intersection,on network,E ALBROOK DR / N PEORIA ST
-2025,-104.95299807,39.74324799,City Park,Daylight,Roundabout,off network,2990 E 17TH AVE
-2025,-105.0251889,39.73568525,Sun Valley,Daylight,At Intersection,on network,W HOLDEN PL / N FEDERAL BLVD
-2025,-104.99641388,39.73051157,Lincoln Park,Daylight,At Intersection,off network,W 9TH AVE / N GALAPAGO ST
-2025,-104.99233749,39.72634045,Lincoln Park,Dark-Lighted,Parking Lot,off network,660 N DELAWARE ST
-2025,-104.98744287,39.75831803,Five Points,Daylight,At Intersection,on network,WALNUT ST / N BROADWAY ST
-2025,-104.70090228,39.83677081,DIA,Dark-Lighted,Parking Lot,off network,24530 E 78TH AVE
-2025,-104.88141886,39.65306085,Hampden South,Dark-Lighted,Intersection Related,on network,E HAMPDEN AVE / S AKRON ST
-2025,,,,Dark-Lighted,Intersection Related,,E 10TH ST / N BROADWAY ST
-2025,-104.93169621,39.68934189,Virginia Village,Dark-Lighted,At Intersection,off network,E FLORIDA AVE / S DAHLIA ST
-2025,,,,Daylight,At Intersection,,33RD ST / N BRIGHTON BLVD
-2025,-105.01593539,39.73847517,Lincoln Park,Dark-Lighted,At Intersection,off network,W 14TH AVE / N ZUNI ST
-2025,,,,Daylight,At Intersection,,S DUDLEY ST / W BELLEVIEW AVE
-2025,-104.97457948,39.70205446,Washington Park West,Daylight,Non-Intersection,off network,S CORONA ST / E OHIO AVE
-2025,-105.02443233,39.68941859,Ruby Hill,Dark-Lighted,Non-Intersection,off network,2950 W FLORIDA AVE
-2025,-104.99495175,39.76568578,Globeville,Dark-Lighted,At Intersection,off network,N GLOBEVILLE RD / PARK AVEW
-2025,-104.68048876,39.83694906,DIA,Dawn or Dusk,Non-Intersection,off network,26296 E 78TH AVE
-2025,-104.98153198,39.74812647,Five Points,Daylight,Mid-Block Crosswalk,off network,COURT PL / 22ND ST
-2025,-104.87084316,39.67475897,Hampden,Dark-Lighted,Non-Intersection,off network,E ILIFF AVE / S PARKER RD
-2025,-104.88271058,39.78004372,Central Park,Daylight,At Intersection,off network,4600 N CENTRAL PARK BLVD
-2025,-104.98568787,39.75415132,Five Points,Daylight,Non-Intersection,off network,2300 BLOCK CURTIS ST
 2025,-104.99071337,39.75710236,Five Points,Dark-Lighted,At Intersection,off network,BLAKE ST / PARK AVEW
 2025,-104.99427237,39.75433677,Five Points,Dark-Lighted,Intersection Related,off network,20TH ST / BLAKE ST
 2025,-105.00927739,39.75646197,Highland,Dark-Lighted,At Intersection,off network,15TH ST / PLATTE ST
 2025,-104.67699262,39.84415837,DIA,Dark-Lighted,Non-Intersection,off network,8148 PENA BLVD
 2025,-104.76490087,39.78372936,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,E GVR BLVD / N ARGONNE ST
-2025,-104.97758893,39.73367441,Capitol Hill,Dark-Lighted,At Intersection,off network,E 11TH AVE / N CLARKSON ST
+2025,-104.77212659,39.78177569,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,E 47TH AVE / N TOWER RD
 2025,-104.88478568,39.65307028,Hampden,Daylight,At Intersection,on network,E HAMPDEN AVE / S YOSEMITE ST
-2025,-104.98993579,39.72904514,Civic Center,Daylight,At Intersection,on network,W 8TH AVE / N SPEER BLVD
-2025,-105.0247864,39.69485299,Ruby Hill,Dark-Lighted,Non-Intersection,on network,1200 BLOCK S FEDERAL BLVD
-2025,-105.04416511,39.70297343,Westwood,Dark-Lighted,Non-Intersection,on network,4400 MORRISON RD
-2025,-105.03731973,39.72133463,Barnum,Daylight,Mid-Block Crosswalk,off network,N NEWTON ST / W 3RD AVE
-2025,-104.68194502,39.85007312,DIA,Daylight,Non-Intersection,off network,8400 BLOCK PENA BLVD OUTBOUND
-2025,-104.95004409,39.71770308,Cherry Creek,Daylight,Mid-Block Crosswalk,on network,E 1ST AVE / N STEELE ST
-2025,-104.99602657,39.73740604,Civic Center,Daylight,Intersection Related,on network,1300 BLOCK N SPEER BLVD
-2025,-105.02505605,39.67863751,College View - South Platte,Dawn or Dusk,At Intersection,on network,S FEDERAL BLVD / W EVANS AVE
-2025,-104.98774089,39.75939547,Five Points,Daylight,At Intersection,on network,BLAKE ST / N BROADWAY ST
-2025,-104.90207023,39.65944638,Hampden,Daylight,Parking Lot,off network,3121 S TAMARAC DR
-2025,-104.95650533,39.74496631,City Park,Dark-Unlighted,Roundabout,off network,CITY PARK RD 14 / CITY PARK RD 15
-2025,-104.94220053,39.68705042,Cory - Merrill,Daylight,Driveway Access Related,off network,1653 S COLORADO BLVD
-2025,-104.95415409,39.77291034,Clayton,Daylight,Non-Intersection,off network,E 40TH AVE / N CLAYTON ST
-2025,-104.99794933,39.73753779,Lincoln Park,Dark-Lighted,Parking Lot,off network,1331 N SPEER BLVD
-2025,-105.0252224,39.78746609,Chaffee Park,Dark-Lighted,Intersection Related,on network,N FEDERAL BLVD / W 50TH AVE
 2025,-104.89755944,39.74015783,East Colfax,Dark-Lighted,At Intersection,on network,N SPRUCE ST / E COLFAX AVE
 2025,,,,Dark-Unlighted,Mid-Block Crosswalk,,1400 BLOCK OF N LIPAN ST
-2025,-104.80987757,39.77318797,Gateway - Green Valley Ranch,Daylight,At Intersection,on network,N CHAMBERS RD / E 40TH AVE
-2025,-104.8902443,39.7398017,East Colfax,Daylight,Non-Intersection,off network,8400 E COLFAX AVE
+2025,-104.99233749,39.72634045,Lincoln Park,Dark-Lighted,Parking Lot,off network,660 N DELAWARE ST
+2025,-104.98744287,39.75831803,Five Points,Daylight,At Intersection,on network,WALNUT ST / N BROADWAY ST
+2025,-104.88141886,39.65306085,Hampden South,Dark-Lighted,Intersection Related,on network,E HAMPDEN AVE / S AKRON ST
+2025,,,,Dark-Lighted,Intersection Related,,E 10TH ST / N BROADWAY ST
+2025,-104.89206289,39.74045076,East Colfax,Dark-Lighted,Non-Intersection,off network,8275 E COLFAX AVE
+2025,-104.98153198,39.74812647,Five Points,Daylight,Mid-Block Crosswalk,off network,COURT PL / 22ND ST
+2025,-104.93169621,39.68934189,Virginia Village,Dark-Lighted,At Intersection,off network,E FLORIDA AVE / S DAHLIA ST
+2025,,,,Daylight,At Intersection,,33RD ST / N BRIGHTON BLVD
+2025,-105.01593539,39.73847517,Lincoln Park,Dark-Lighted,At Intersection,off network,W 14TH AVE / N ZUNI ST
+2025,-104.87084316,39.67475897,Hampden,Dark-Lighted,Non-Intersection,off network,E ILIFF AVE / S PARKER RD
+2025,-104.88271058,39.78004372,Central Park,Daylight,At Intersection,off network,4600 N CENTRAL PARK BLVD
+2025,-104.98568787,39.75415132,Five Points,Daylight,Non-Intersection,off network,2300 BLOCK CURTIS ST
+2025,-104.97758893,39.73367441,Capitol Hill,Dark-Lighted,At Intersection,off network,E 11TH AVE / N CLARKSON ST
+2025,-104.99794933,39.73753779,Lincoln Park,Dark-Lighted,Parking Lot,off network,1331 N SPEER BLVD
+2025,-105.0252224,39.78746609,Chaffee Park,Dark-Lighted,Intersection Related,on network,N FEDERAL BLVD / W 50TH AVE
+2025,-105.02505605,39.67863751,College View - South Platte,Daylight,At Intersection,on network,S FEDERAL BLVD / W EVANS AVE
+2025,-104.97817585,39.74750219,Five Points,Dark-Lighted,Mid-Block Crosswalk,on network,PARK AVEW / E 20TH AVE
+2025,-104.9788527,39.77031821,Five Points,Dawn or Dusk,At Intersection,off network,35TH ST / N BRIGHTON BLVD
+2025,-104.9876973,39.76390023,Five Points,Dark-Lighted,At Intersection,off network,1859 28TH ST
+2025,-105.0203891,39.70390013,Athmar Park,Daylight,At Intersection,off network,W EXPOSITION AVE / S CLAY ST
+2025,-105.05301483,39.65051415,Fort Logan,Daylight,Driveway Access Related,off network,S SHERIDAN BLVD / W KENYON AVE
+2025,-104.94979073,39.77765851,Elyria Swansea,Daylight,At Intersection,off network,E 44TH AVE / N STEELE ST
 2025,-105.02140726,39.67968241,College View - South Platte,Daylight,Parking Lot,off network,2727 W EVANS AVE
-2025,-105.0251004,39.70569271,Athmar Park,Dark-Lighted,At Intersection,on network,W CENTER AVE / S FEDERAL BLVD
-2025,-104.98259868,39.72260836,Speer,Daylight,At Intersection,off network,E SPEER BLVD / N LOGAN ST
-2025,-104.84236952,39.78195562,Montbello,Daylight,Parking Lot,off network,12635 E ALBROOK DR
-2025,-104.9898289,39.75645065,Five Points,Dark-Lighted,At Intersection,off network,PARK AVEW / MARKET ST
-2025,-104.98723622,39.72431976,Speer,Daylight,Driveway Access Related,on network,500 BLOCK N BROADWAY ST
-2025,-105.01583337,39.7584053,Highland,Daylight,Intersection Related,off network,W 29TH AVE / N ZUNI ST
+2025,-104.99239739,39.71118397,Baker,Daylight,At Intersection,on network,W ALAMEDA AVE / S CHEROKEE ST
+2025,-104.97414929,39.74001714,Capitol Hill,Daylight,Non-Intersection,on network,E COLFAX AVE / N CORONA ST
+2025,-104.98929797,39.75414234,Five Points,Dark-Lighted,At Intersection,off network,22ND ST / LAWRENCE ST
+2025,-105.02443288,39.66678616,College View - South Platte,Daylight,Non-Intersection,off network,2700 BLOCK S FEDERAL BLVD
+2025,-105.02518546,39.78924209,Regis,Dark-Lighted,At Intersection,on network,N FEDERAL BLVD / W 51ST AVE
+2025,-104.98233956,39.74327091,North Capitol Hill,Dawn or Dusk,At Intersection,on network,E 17TH AVE / N LOGAN ST
+2025,-104.76514545,39.78381873,Gateway - Green Valley Ranch,Daylight,Parking Lot,off network,18695 E GVR BLVD
+2025,-104.94055165,39.68840702,Virginia Village,Dark-Lighted,Non-Intersection,on network,1500 BLOCK S COLORADO BLVD
+2025,-104.88464763,39.7401569,,Dark-Lighted,Intersection Related,on network,E COLFAX AVE / N YOSEMITE ST
+2025,-104.71950483,39.83612134,DIA,Daylight,Parking Lot,off network,7684 N WENATCHEE ST
+2025,-104.98364037,39.76655362,Five Points,Daylight,At Intersection,off network,31ST ST / N BRIGHTON BLVD
+2025,-104.94074853,39.67841495,University Park,Dark-Lighted,Non-Intersection,on network,E EVANS AVE / S COLORADO BLVD
+2025,-104.99495175,39.76568578,Globeville,Daylight,At Intersection,off network,N GLOBEVILLE RD / PARK AVEW
+2025,-104.84700886,39.78238774,Montbello,Dark-Lighted,Non-Intersection,on network,E ALBROOK DR / N PEORIA ST
+2025,-104.95299807,39.74324799,City Park,Daylight,Roundabout,off network,2990 E 17TH AVE
+2025,-104.97457948,39.70205446,Washington Park West,Daylight,Non-Intersection,off network,S CORONA ST / E OHIO AVE
+2025,-105.02443233,39.68941859,Ruby Hill,Dark-Lighted,Non-Intersection,off network,2950 W FLORIDA AVE
+2025,-104.86959198,39.67364314,Hampden,Dark-Lighted,Non-Intersection,off network,2300 BLOCK S PARKER RD
+2025,-104.91769879,39.69411616,Washington Virginia Vale,Dark-Lighted,Non-Intersection,off network,S KEARNEY ST / E CHERRY CREEK N DR
+2025,-104.96842145,39.77837825,Elyria Swansea,Dark-Lighted,Non-Intersection,off network,N BRIGHTON BLVD / 44TH ST
+2025,-104.77212087,39.78369734,Gateway - Green Valley Ranch,Dark-Lighted,At Intersection,off network,E GVR BLVD / N TOWER RD
+2025,-105.05316261,39.70542931,Westwood,Dark-Lighted,Non-Intersection,on network,600 BLOCK S SHERIDAN BLVD
+2025,-104.91269852,39.77313361,Northeast Park Hill,Dark-Lighted,At Intersection,off network,N MONACO ST / E SMITH RD
+2025,-105.0169128,39.71118015,Athmar Park,Daylight,At Intersection,on network,W ALAMEDA AVE / S ALCOTT ST
 2025,-104.99036056,39.74006925,Civic Center,Daylight,At Intersection,on network,14TH ST / W COLFAX AVE
 2025,-104.96346734,39.73999363,Cheesman Park,Daylight,Driveway Access Related,on network,N RACE ST / E COLFAX AVE
 2025,-105.01992855,39.7244632,Valverde,Daylight,Intersection Related,off network,2600 BLOCK W 6TH AVE
+2025,-104.91139529,39.71183051,Hilltop,Daylight,Parking Lot,off network,290 S MONACO ST
+2025,-104.99369577,39.75931966,Five Points,Daylight,At Intersection,off network,DELGANY ST / PARK AVEW
+2025,-104.97944421,39.75773114,Five Points,Daylight,At Intersection,off network,CHAMPA ST / 28TH ST
+2025,-104.95977982,39.73999048,City Park,Daylight,At Intersection,on network,E COLFAX AVE / N YORK ST
+2025,-104.68048876,39.83694906,DIA,Dawn or Dusk,Non-Intersection,off network,26296 E 78TH AVE
+2025,-104.88422418,39.78028499,Central Park,Daylight,Parking Lot,off network,8969 E 46TH AVE
+2025,-104.94074187,39.70734512,Belcaro,Daylight,At Intersection,on network,E CHERRY CREEK N DR / S COLORADO BLVD
+2025,-104.88278765,39.77411987,Central Park,Daylight,At Intersection,off network,E 40TH AVE / N CENTRAL PARK BLVD
+2025,-104.90350656,39.69566202,Washington Virginia Vale,Daylight,At Intersection,off network,S QUEBEC ST / E MISSISSIPPI AVE
+2025,-104.80987757,39.77318797,Gateway - Green Valley Ranch,Daylight,At Intersection,on network,N CHAMBERS RD / E 40TH AVE
+2025,-104.94220053,39.68705042,Cory - Merrill,Daylight,Driveway Access Related,off network,1653 S COLORADO BLVD
+2025,-104.95415409,39.77291034,Clayton,Daylight,Non-Intersection,off network,E 40TH AVE / N CLAYTON ST
+2025,-104.99495175,39.76568578,Globeville,Dark-Lighted,At Intersection,off network,N GLOBEVILLE RD / PARK AVEW
+2025,-104.98993579,39.72904514,Civic Center,Daylight,At Intersection,on network,W 8TH AVE / N SPEER BLVD
+2025,-105.0247864,39.69485299,Ruby Hill,Dark-Lighted,Non-Intersection,on network,1200 BLOCK S FEDERAL BLVD
+2025,-105.04416511,39.70297343,Westwood,Dark-Lighted,Non-Intersection,on network,4400 MORRISON RD
 2025,-105.00675745,39.75822486,Highland,Dark-Lighted,Parking Lot,off network,1700 BLOCK PLATTE ST
 2025,-104.98019549,39.74899082,Five Points,Dark-Lighted,Non-Intersection,on network,PARK AVEW / COURT PL
 2025,-105.0299401,39.71116979,Barnum,Daylight,At Intersection,on network,W ALAMEDA AVE / S IRVING ST
 2025,-104.97990991,39.74002352,North Capitol Hill,Dark-Lighted,At Intersection,on network,E COLFAX AVE / N PEARL ST
-2025,-104.94074187,39.70734512,Belcaro,Daylight,At Intersection,on network,E CHERRY CREEK N DR / S COLORADO BLVD
-2025,-104.88278765,39.77411987,Central Park,Daylight,At Intersection,off network,E 40TH AVE / N CENTRAL PARK BLVD
-2025,-104.90350656,39.69566202,Washington Virginia Vale,Daylight,At Intersection,off network,S QUEBEC ST / E MISSISSIPPI AVE
+2025,-105.05321215,39.74397861,,Dark-Lighted,At Intersection,on network,N SHERIDAN BLVD / W 17TH AVE
+2025,-104.98746846,39.69301888,Overland,Daylight,At Intersection,on network,E LOUISIANA AVE / S BROADWAY ST
+2025,-104.68194502,39.85007312,DIA,Daylight,Non-Intersection,off network,8400 BLOCK PENA BLVD OUTBOUND
+2025,-104.95004409,39.71770308,Cherry Creek,Daylight,Mid-Block Crosswalk,on network,E 1ST AVE / N STEELE ST
+2025,-104.99602657,39.73740604,Civic Center,Daylight,Intersection Related,on network,1300 BLOCK N SPEER BLVD
+2025,-105.02505605,39.67863751,College View - South Platte,Dawn or Dusk,At Intersection,on network,S FEDERAL BLVD / W EVANS AVE
+2025,-104.9675298,39.69295224,Washington Park,Daylight,Intersection Related,off network,E LOUISIANA AVE / S GILPIN ST
+2025,-105.02515375,39.72932158,Sun Valley,Daylight,Mid-Block Crosswalk,on network,N FEDERAL BLVD / W 8TH AVE
+2025,-104.94061095,39.69657189,Belcaro,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E MISSISSIPPI AVE
+2025,-105.02516093,39.73298929,Sun Valley,Dark-Lighted,At Intersection,on network,W 10TH AVE / N FEDERAL BLVD
+2025,-105.02972352,39.69310211,Mar Lee,Daylight,At Intersection,off network,W LOUISIANA AVE / S IRVING ST
+2025,-104.99586656,39.75175209,Union Station,Dark-Lighted,At Intersection,off network,18TH ST / MARKET ST
+2025,-104.98787452,39.71383005,Baker,Daylight,Non-Intersection,on network,20 BLOCK W MAPLE AVE
+2025,-104.93042749,39.66746638,University Hills,Daylight,At Intersection,off network,E YALE AVE / S EUDORA ST
+2025,-104.84700886,39.78238774,Montbello,Dark-Lighted,At Intersection,on network,E ALBROOK DR / N PEORIA ST
+2025,-105.05287216,39.70750364,Westwood,Dark-Lighted,Non-Intersection,off network,500 BLOCK S SHERIDAN BLVD
+2025,-105.08616325,39.63733985,Marston,Daylight,Parking Lot,off network,7900 W QUINCY AVE
+2025,-104.89054704,39.74015466,East Colfax,Dark-Lighted,At Intersection,on network,E COLFAX AVE / N VERBENA ST
+2025,-105.02514677,39.75241193,Jefferson Park,Dark-Lighted,At Intersection,on network,W 24TH AVE / N FEDERAL BLVD
+2025,-104.9025335,39.76738057,Central Park,Dark-Lighted,At Intersection,off network,N QUEBEC ST / E 36TH AVE
+2025,-104.98040862,39.73990494,Capitol Hill,Daylight,Non-Intersection,on network,520 E COLFAX AVE
+2025,-105.04401091,39.76936425,Berkeley,Daylight,At Intersection,on network,N TENNYSON ST / W 38TH AVE
+2025,-105.03731973,39.72133463,Barnum,Daylight,Mid-Block Crosswalk,off network,N NEWTON ST / W 3RD AVE
+2025,-105.02140726,39.67968241,College View - South Platte,Daylight,Parking Lot,off network,2727 W EVANS AVE
+2025,-105.02506866,39.72981264,Sun Valley,Daylight,Non-Intersection,on network,800 BLOCK N FEDERAL BLVD
+2025,-104.89726139,39.73966764,East Colfax,Dark-Lighted,Parking Lot,off network,7800 E COLFAX AVE
 2025,-104.89642152,39.74015749,East Colfax,Dark-Lighted,Intersection Related,on network,E COLFAX AVE / N TRENTON ST
 2025,-105.00571617,39.76163009,Highland,Dark-Lighted,Non-Intersection,off network,20TH ST / N OSAGE ST
 2025,-104.98759807,39.70933754,Baker,Daylight,At Intersection,on network,S BROADWAY ST / E DAKOTA AVE
 2025,-104.98741481,39.74220874,North Capitol Hill,Dark-Lighted,At Intersection,on network,N BROADWAY ST / CLEVELAND PL
-2025,-104.79796701,39.78378565,Gateway - Green Valley Ranch,Daylight,Intersection Related,off network,E GVR BLVD / N MEMPHIS ST
-2025,-105.00756924,39.74645937,Auraria,Dark-Lighted,At Intersection,off network,9TH ST / AURARIA PKWY
-2025,-104.98955709,39.78010793,Globeville,Dark-Lighted,Ramp Related,off network,I25 HWY_SB / I70 HWY
+2025,-104.94074853,39.67841495,University Park,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E EVANS AVE
 2025,-105.05323873,39.73310749,Villa Park,Dark-Lighted,At Intersection,on network,N SHERIDAN BLVD / W 10TH AVE
-2025,-104.92228325,39.75107073,South Park Hill,Daylight,At Intersection,off network,E 23RD AVE / N HOLLY ST
+2025,-104.96206019,39.73986092,Cheesman Park,Daylight,Non-Intersection,on network,2100 BLOCK E COLFAX AVE
 2025,-104.94946971,39.74016232,City Park,Daylight,Parking Lot,on network,E COLFAX AVE / N STEELE ST
 2025,-104.93224348,39.70163533,Washington Virginia Vale,Daylight,Parking Lot,off network,818 S DEXTER ST
-2025,-105.05321215,39.74397861,,Dark-Lighted,At Intersection,on network,N SHERIDAN BLVD / W 17TH AVE
-2025,-104.98746846,39.69301888,Overland,Daylight,At Intersection,on network,E LOUISIANA AVE / S BROADWAY ST
-2025,-105.02506866,39.72981264,Sun Valley,Daylight,Non-Intersection,on network,800 BLOCK N FEDERAL BLVD
-2025,-104.89726139,39.73966764,East Colfax,Dark-Lighted,Parking Lot,off network,7800 E COLFAX AVE
-2025,-105.00476263,39.76116213,Highland,Daylight,Non-Intersection,off network,I25 HWYSB / 20TH ST
-2025,-104.9675298,39.69295224,Washington Park,Daylight,Intersection Related,off network,E LOUISIANA AVE / S GILPIN ST
-2025,-105.02515375,39.72932158,Sun Valley,Daylight,Mid-Block Crosswalk,on network,N FEDERAL BLVD / W 8TH AVE
-2025,-104.96639964,39.67847926,University,Daylight,Mid-Block Crosswalk,on network,E EVANS AVE / S WILLIAMS ST
-2025,-104.98787452,39.71383005,Baker,Daylight,Non-Intersection,on network,20 BLOCK W MAPLE AVE
-2025,-104.93042749,39.66746638,University Hills,Daylight,At Intersection,off network,E YALE AVE / S EUDORA ST
+2025,-104.9886361,39.73224049,Civic Center,Daylight,Non-Intersection,off network,1000 BLOCK N ACOMA ST
+2025,-105.02523167,39.7656114,Highland,Daylight,At Intersection,on network,W 35TH AVE / N FEDERAL BLVD
+2025,-104.8902443,39.7398017,East Colfax,Daylight,Non-Intersection,off network,8400 E COLFAX AVE
+2025,-105.0251004,39.70569271,Athmar Park,Dark-Lighted,At Intersection,on network,W CENTER AVE / S FEDERAL BLVD
+2025,-104.98259868,39.72260836,Speer,Daylight,At Intersection,off network,E SPEER BLVD / N LOGAN ST
+2025,-104.84236952,39.78195562,Montbello,Daylight,Parking Lot,off network,12635 E ALBROOK DR
+2025,-104.98774089,39.75939547,Five Points,Daylight,At Intersection,on network,BLAKE ST / N BROADWAY ST
+2025,-104.90207023,39.65944638,Hampden,Daylight,Parking Lot,off network,3121 S TAMARAC DR
+2025,-104.95650533,39.74496631,City Park,Dark-Unlighted,Roundabout,off network,CITY PARK RD 14 / CITY PARK RD 15
 2025,-104.91407117,39.76384228,Northeast Park Hill,UNDER INVESTIGATION,UNDER INVESTIGATION,off network,N LOCUST ST / E 33RD AVE
 2025,-105.0250953,39.71117229,Westwood,UNDER INVESTIGATION,UNDER INVESTIGATION,on network,S FEDERAL BLVD / W ALAMEDA AVE
 2025,-104.99351684,39.73386484,Civic Center,Daylight,At Intersection,on network,W 11TH AVE / N SPEER BLVD
 2025,-105.08617036,39.63733987,Marston,Daylight,Parking Lot,off network,7900 W QUINCY AVE
 2025,-104.98613612,39.74006186,Capitol Hill,Dark-Lighted,Non-Intersection,on network,E COLFAX AVE / N LINCOLN ST
-2025,-104.75867538,39.79503101,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,N ESPANA CT / E MAXWELL PL
-2025,-104.99660282,39.70666132,Baker,Dark-Lighted,Non-Intersection,off network,I25 HWYNB / S SANTA FE DR
-2025,-105.06102117,39.79004273,Regis,Daylight,Non-Intersection,off network,5100 BLOCK N GRAY ST
-2025,-105.02514677,39.75241193,Jefferson Park,Dark-Lighted,At Intersection,on network,W 24TH AVE / N FEDERAL BLVD
-2025,-104.9025335,39.76738057,Central Park,Dark-Lighted,At Intersection,off network,N QUEBEC ST / E 36TH AVE
-2025,-104.85372464,39.77604483,Montbello,Daylight,Parking Lot,off network,11200 E 45TH AVE
-2025,-104.99533179,39.74946025,CBD,Dark-Lighted,At Intersection,off network,17TH ST / LAWRENCE ST
-2025,-104.98040862,39.73990494,Capitol Hill,Daylight,Non-Intersection,on network,520 E COLFAX AVE
-2025,-105.04401091,39.76936425,Berkeley,Daylight,At Intersection,on network,N TENNYSON ST / W 38TH AVE
-2025,-104.94074853,39.67841495,University Park,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E EVANS AVE
-2025,-104.94061095,39.69657189,Belcaro,Dark-Lighted,At Intersection,on network,S COLORADO BLVD / E MISSISSIPPI AVE
-2025,-105.02516093,39.73298929,Sun Valley,Dark-Lighted,At Intersection,on network,W 10TH AVE / N FEDERAL BLVD
-2025,-105.02972352,39.69310211,Mar Lee,Daylight,At Intersection,off network,W LOUISIANA AVE / S IRVING ST
-2025,-104.99586656,39.75175209,Union Station,Dark-Lighted,At Intersection,off network,18TH ST / MARKET ST
-2025,-104.96206019,39.73986092,Cheesman Park,Daylight,Non-Intersection,on network,2100 BLOCK E COLFAX AVE
-2025,-104.84700886,39.78238774,Montbello,Dark-Lighted,At Intersection,on network,E ALBROOK DR / N PEORIA ST
-2025,-105.05287216,39.70750364,Westwood,Dark-Lighted,Non-Intersection,off network,500 BLOCK S SHERIDAN BLVD
-2025,-105.08616325,39.63733985,Marston,Daylight,Parking Lot,off network,7900 W QUINCY AVE
-2025,-104.89054704,39.74015466,East Colfax,Dark-Lighted,At Intersection,on network,E COLFAX AVE / N VERBENA ST
+2025,-104.9898289,39.75645065,Five Points,Dark-Lighted,At Intersection,off network,PARK AVEW / MARKET ST
 2025,-104.94062964,39.68932158,Cory - Merrill,Daylight,At Intersection,on network,S COLORADO BLVD / E FLORIDA AVE
 2025,-104.74344672,39.78683289,Gateway - Green Valley Ranch,Daylight,Non-Intersection,off network,5042 N LIVERPOOL ST
 2025,-105.02519655,39.65681543,Harvey Park South,Daylight,Non-Intersection,off network,S FEDERAL BLVD / W FLOYD AVE
-2025,-104.9886361,39.73224049,Civic Center,Daylight,Non-Intersection,off network,1000 BLOCK N ACOMA ST
-2025,-105.02523167,39.7656114,Highland,Daylight,At Intersection,on network,W 35TH AVE / N FEDERAL BLVD
-2025,-105.05320681,39.74035211,,Dark-Lighted,At Intersection,on network,W COLFAX AVE / N SHERIDAN BLVD
-2025,-104.9461699,39.73834319,Congress Park,Dark-Unlighted,At Intersection,on network,E 14TH AVE / N MADISON ST
-2025,-105.02522281,39.75483904,Jefferson Park,Dark-Lighted,Non-Intersection,on network,N FEDERAL BLVD / W 26TH AVE
-2025,-104.98739138,39.74006184,Civic Center,Daylight,Non-Intersection,on network,E COLFAX AVE / N BROADWAY ST
-2025,-104.79796701,39.78378565,Gateway - Green Valley Ranch,Daylight,Intersection Related,off network,N MEMPHIS ST / E GVR BLVD
-2025,-105.03608508,39.71128203,Barnum,Daylight,Alley Related,on network,W ALAMEDA AVE / S MEADE ST
-2025,-104.99073566,39.74228081,CBD,Daylight,At Intersection,off network,15TH ST / TREMONT PL
-2025,-105.0001912,39.7273212,Lincoln Park,Dark-Lighted,Non-Intersection,off network,N KALAMATH ST / W 7TH AVE
-2025,-104.90312769,39.69591816,Washington Virginia Vale,Daylight,Mid-Block Crosswalk,off network,1050 S QUEBEC ST
-2025,-105.02464435,39.69851191,Athmar Park,Dark-Lighted,Non-Intersection,off network,1000 BLOCK S FEDERAL BLVD
-2025,-104.90171211,39.77275709,Central Park,Daylight,Non-Intersection,off network,4000 BLOCK N QUEBEC ST
-2025,-104.9958976,39.75386606,Union Station,Daylight,Driveway Access Related,off network,1900 BLOCK WAZEE ST
-2025,-104.92391382,39.74047648,South Park Hill,Dark-Lighted,Parking Lot,off network,5455 E COLFAX AVE
-2025,-104.98749995,39.76510727,Five Points,Dark-Unlighted,Intersection Related,off network,29TH ST / DELGANY ST
-2025,-105.01061673,39.6970625,Athmar Park,Dark-Lighted,Parking Lot,off network,1875 W MISSISSIPPI AVE
-2025,-105.05321682,39.65616483,Bear Valley,Daylight,At Intersection,on network,W DARTMOUTH AVE / S SHERIDAN BLVD
-2025,-105.02997298,39.76940238,West Highland,Daylight,At Intersection,on network,W 38TH AVE / N IRVING ST
-2025,-104.96463432,39.68028315,University,Dark-Unlighted,Intersection Related,off network,E ASBURY AVE / S HIGH RACE ALY
-2025,-105.05325293,39.71134026,Westwood,Dark-Lighted,Non-Intersection,on network,S SHERIDAN BLVD / W ALAMEDA AVE
-2025,-104.98108893,39.74167589,North Capitol Hill,Dark-Lighted,Intersection Related,on network,E 16TH AVE / N PENNSYLVANIA ST
-2025,-104.90354612,39.69853384,Washington Virginia Vale,Dark-Lighted,Auxiliary Lane,on network,LEETSDALE DR / S QUEBEC ST
-2025,-104.90345419,39.76745936,Northeast Park Hill,Daylight,Non-Intersection,on network,N QUEBEC ST / E 36TH AVE
-2025,-105.0247864,39.69485299,Ruby Hill,Dark-Lighted,Non-Intersection,on network,1200 S FEDERAL BLVD
-2025,-105.02492767,39.72543061,Valverde,,,on network,W 6TH AVE / N FEDERAL BLVD
-2025,-104.88687141,39.74000928,East Colfax,Daylight,At Intersection,on network,8700 E COLFAX AVE
-2025,-104.98723622,39.72431976,Speer,Daylight,Non-Intersection,on network,500 BLOCK N BROADWAY ST
-2025,-104.81749055,39.79443122,Montbello,Daylight,Non-Intersection,off network,5519 N DEARBORN ST
-2025,-105.02268904,39.67823534,College View - South Platte,Daylight,At Intersection,off network,2800 BLOCK W EVANS AVE
-2025,-104.92227168,39.68124664,Virginia Village,Daylight,At Intersection,off network,S HOLLY ST / E ATLANTIC PL
-2025,-105.05325676,39.72581063,,Dark-Lighted,Non-Intersection,on network,W 6TH AVE / N SHERIDAN BLVD
-2025,-105.05326587,39.67915988,Harvey Park,Daylight,At Intersection,on network,S SHERIDAN BLVD / W EVANS AVE
-2025,-104.86230111,39.78324297,Montbello,Daylight,Parking Lot,off network,10825 E 47TH AVE
-2025,-104.99552078,39.7533456,Union Station,Daylight,At Intersection,off network,19TH ST / BLAKE ST
-2025,,,,Daylight,Alley Related,,500 BLOCK PARK AVE
-2025,-104.99097101,39.73386209,Civic Center,Daylight,Intersection Related,off network,W 11TH AVE / N BANNOCK CHEROKEE ALY
-2025,-104.98740818,39.74506104,CBD,Dark-Lighted,At Intersection,on network,18TH ST / N BROADWAY ST
-2025,-104.99763105,39.73679796,Lincoln Park,Dark-Lighted,Non-Intersection,on network,800 BLOCK W 13TH AVE
-2025,-105.00281844,39.73687215,Lincoln Park,Daylight,At Intersection,off network,W 13TH AVE / N MARIPOSA ST
-2025,-105.00420155,39.75046703,Auraria,Daylight,Mid-Block Crosswalk,off network,1300 BLOCK WEWATTA ST
-2025,-104.98804331,39.71846483,Baker,Daylight,Parking Lot,off network,39 W 1ST AVE
-2025,-105.05180066,39.71499694,Barnum West,Daylight,Intersection Related,off network,S ZENOBIA ST / W BAYAUD AVE
-2025,-104.8904033,39.75464624,Central Park,Dark-Lighted,At Intersection,off network,N CENTRAL PARK BLVD / E 26TH AVE
-2025,-104.93160739,39.71127928,Hilltop,Dark-Lighted,Non-Intersection,on network,E ALAMEDA AVE / S DAHLIA ST
-2025,-105.00157594,39.75409889,Union Station,Dark-Lighted,At Intersection,off network,17TH ST / WEWATTA ST
-2025,-104.97329527,39.74340922,City Park West,Daylight,Non-Intersection,on network,1700 BLOCK N DOWNING ST
-2025,-104.9807608,39.73700474,Capitol Hill,Daylight,Non-Intersection,on network,1300 BLOCK N PENNSYLVANIA ST
-2025,-104.84170986,39.78059029,Montbello,Daylight,Intersection Related,off network,E 46TH AVE / E ALBROOK DR
-2025,-104.84745145,39.76962749,Central Park,Daylight,Non-Intersection,on network,E 38TH AVE / N PEORIA ST
-2025,-104.94836402,39.71391219,Cherry Creek,Daylight,Non-Intersection,off network,3300 BLOCK E BAYAUD AVE
-2025,-104.97411842,39.73370013,Capitol Hill,Daylight,At Intersection,off network,E 11TH AVE / N CORONA ST
-2025,-104.97038613,39.7387292,Cheesman Park,Daylight,Alley Related,off network,1400 BLOCK N LAFAYETTE ST / HUMBOLDT ST ALLEY
-2025,-105.02980558,39.67820088,Harvey Park,Daylight,At Intersection,off network,S IRVING ST / W EVANS AVE
-2025,-104.98293141,39.76042587,Five Points,Dark-Lighted,At Intersection,off network,LARIMER ST / 28TH ST
-2025,-105.05324935,39.71134299,Westwood,Daylight,At Intersection,on network,S SHERIDAN BLVD / W ALAMEDA AVE
-2025,-104.95171141,39.71996475,Cherry Creek,Dark-Unlighted,Alley Related,off network,200 BLOCK N MILWAUKEE ST PAUL ALY
-2025,-104.91581558,39.6782937,Goldsmith,Daylight,Non-Intersection,on network,6300 BLOCK E EVANS AVE
-2025,-104.98277254,39.69661664,Platt Park,Daylight,At Intersection,off network,E MISSISSIPPI AVE / S LOGAN ST
-2025,-104.90343362,39.77823711,Central Park,Dark-Lighted,Non-Intersection,on network,N NORTHFIELD QUEBEC ST / I70 HWYEB
-2025,-104.98715158,39.72471197,Speer,Daylight,Non-Intersection,on network,530 BLOCK N BROADWAY ST
-2025,-105.02150533,39.71116323,Valverde,Daylight,At Intersection,on network,W ALAMEDA AVE / S DALE CT
-2025,-104.91269852,39.77313361,Northeast Park Hill,Dark-Lighted,Intersection Related,off network,E SMITH RD / N MONACO ST
-2025,-104.94171627,39.7644598,Clayton,Dark-Lighted,Intersection Related,off network,E BRUCE RANDOLPH AVE / N HARRISON ST
-2025,-104.94069185,39.72922765,Hale,Daylight,At Intersection,on network,N COLORADO BLVD / E 8TH AVE
-2025,-104.88507089,39.64321313,Hampden South,Dark-Lighted,At Intersection,off network,E NASSAU AVE / S YOSEMITE ST
-2025,-104.9665019,39.69213772,Washington Park,Daylight,Parking Lot,off network,1700 E LOUISIANA AVE
-2025,-104.9873985,39.74735879,North Capitol Hill,Daylight,At Intersection,on network,WELTON ST / N BROADWAY ST
+2025,-104.75867538,39.79503101,Gateway - Green Valley Ranch,Daylight,At Intersection,off network,N ESPANA CT / E MAXWELL PL
+2025,-104.99660282,39.70666132,Baker,Dark-Lighted,Non-Intersection,off network,I25 HWYNB / S SANTA FE DR
+2025,-105.06102117,39.79004273,Regis,Daylight,Non-Intersection,off network,5100 BLOCK N GRAY ST
+2025,-104.85372464,39.77604483,Montbello,Daylight,Parking Lot,off network,11200 E 45TH AVE
+2025,-104.99533179,39.74946025,CBD,Dark-Lighted,At Intersection,off network,17TH ST / LAWRENCE ST
+2025,-104.95915921,39.74161558,City Park,Dark-Lighted,Non-Intersection,on network,N JOSEPHINE ST / E 16TH AVE
+2025,-104.98740116,39.73045343,Capitol Hill,Daylight,At Intersection,on network,E 9TH AVE / N BROADWAY ST
+2025,-105.00476263,39.76116213,Highland,Daylight,Non-Intersection,off network,I25 HWYSB / 20TH ST
+2025,-104.96639964,39.67847926,University,Daylight,Mid-Block Crosswalk,on network,E EVANS AVE / S WILLIAMS ST
+2025,-104.79796701,39.78378565,Gateway - Green Valley Ranch,Daylight,Intersection Related,off network,E GVR BLVD / N MEMPHIS ST
+2025,-105.00756924,39.74645937,Auraria,Dark-Lighted,At Intersection,off network,9TH ST / AURARIA PKWY
+2025,-104.98955709,39.78010793,Globeville,Dark-Lighted,Ramp Related,off network,I25 HWY_SB / I70 HWY
+2025,-104.98723622,39.72431976,Speer,Daylight,Driveway Access Related,on network,500 BLOCK N BROADWAY ST
+2025,-105.01583337,39.7584053,Highland,Daylight,Intersection Related,off network,W 29TH AVE / N ZUNI ST
+2025,-104.92228325,39.75107073,South Park Hill,Daylight,At Intersection,off network,E 23RD AVE / N HOLLY ST
 2025,-105.02505605,39.67863751,College View - South Platte,Daylight,At Intersection,on network,W EVANS AVE / S FEDERAL BLVD
 2025,-104.98037893,39.68487809,Platt Park,Daylight,Non-Intersection,off network,1700 BLOCK S PEARL ST
 2025,-105.05090807,39.77114222,Berkeley,Daylight,At Intersection,off network,W 39TH AVE / N YATES ST
 2025,-104.99315152,39.75784861,Five Points,Dark-Lighted,Non-Intersection,off network,1600 BLOCK 22ND ST
 2025,-104.67381232,39.84929165,DIA,Daylight,Non-Intersection,off network,8400 PENA BLVD
+2025,-105.05320681,39.74035211,,Dark-Lighted,At Intersection,on network,W COLFAX AVE / N SHERIDAN BLVD
+2025,-104.9461699,39.73834319,Congress Park,Dark-Unlighted,At Intersection,on network,E 14TH AVE / N MADISON ST
+2025,-105.02522281,39.75483904,Jefferson Park,Dark-Lighted,Non-Intersection,on network,N FEDERAL BLVD / W 26TH AVE
+2025,-104.98739138,39.74006184,Civic Center,Daylight,Non-Intersection,on network,E COLFAX AVE / N BROADWAY ST
 2025,-104.97102257,39.74769536,City Park West,Daylight,Parking Lot,off network,1375 E 20TH AVE
-2025,-104.95915921,39.74161558,City Park,Dark-Lighted,Non-Intersection,on network,N JOSEPHINE ST / E 16TH AVE
-2025,-104.98740116,39.73045343,Capitol Hill,Daylight,At Intersection,on network,E 9TH AVE / N BROADWAY ST
-2025,-105.02507927,39.70041341,Athmar Park,Daylight,At Intersection,on network,S FEDERAL BLVD / W KENTUCKY AVE
 2025,,,,Dark-Lighted,Intersection Related,,W QUINCY AVE / S WADSWORTH BLVD
+2025,-105.02507927,39.70041341,Athmar Park,Daylight,At Intersection,on network,S FEDERAL BLVD / W KENTUCKY AVE
