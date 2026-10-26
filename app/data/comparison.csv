@@ -9,7 +9,7 @@ year,source,metric,value,partial_year
 2024,Open crash file,pedestrian_deaths,0,False
 2025,Open crash file,traffic_deaths,41,False
 2025,Open crash file,pedestrian_deaths,0,False
-2026,Open crash file,traffic_deaths,26,True
+2026,Open crash file,traffic_deaths,30,True
 2026,Open crash file,pedestrian_deaths,0,True
 2024,City reported,traffic_deaths,80,False
 2025,City reported,traffic_deaths,93,False
